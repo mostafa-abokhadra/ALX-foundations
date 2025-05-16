@@ -106,3 +106,8 @@ This section contains platforms you can use to discover and research African com
 > - identify your personal mission in society, which problem do I want to solve and how do I get the knowledge and skills to solve this problem
 > - it is about sharing your story, inspiring other and shard vision
 > be a CHAIR 😂, courage, Humility, Adventure, Initiative, Resilience
+
+### Read more
+1. meditation
+2. morning pages
+3. GCGO
