@@ -209,12 +209,215 @@ Emotional intelligence is the process of understanding and facilitating emotions
 
 
 
+Harvard Business Review defines these 4 categories of emotional intelligence as awareness of self, managing self, awareness of others, and managing others. This is very helpful in categorizing our daily actions, in order to make better decisions. Interestingly, the 4 elements are then further subdivided! We want you to take a look at the chart below, read each term carefully, and then ask yourself what you think it means.
+
+![emotionalIntelligence](https://github.com/user-attachments/assets/b9760fb9-6a87-4bc3-9152-85bd08f3a9b6)
+
+https://hbr.org/2017/02/emotional-intelligence-has-12-elements-which-do-you-need-to-work-on  
 
 
+emothional intelligence Daniel Goleman read more
+
+### self awareness
+What is self-awareness?
+How does self-awareness relate to leadership?
+What determines how self-aware a person is?
+
+personality test 
+https://www.16personalities.com/
+
+https://my.jobstreet.com/career-advice/article/what-is-the-best-it-job-for-your-mbti-personality-type
+
+https://www.queendom.com/tests/access_page/index.htm?idRegTest=721
+
+https://www.queendom.com/tests/access_page/index.htm?idRegTest=2289
+
+### peer coaching
+**What is Peer Coaching?**
+
+Peer coaching is a type of helping relationship in which two people of equal status help one another with specific tasks or problems, using a structured format.
+
+Peer coaching can take many forms, But at its simplest, it is simply one person playing the role of “coach” while the other is the “coachee.”
+
+The coach asks questions and reflects the answers to the coachee, **The coach does not offer advice**. A wonderful and simple peer coaching model to start with is the **GROW** Model. In this model, the coach asks 4 simple questions of the coachee.
+
+Your first and last names
+Mostafa abokhadra, abdallah gamal
+
+Your 5 strongest skills, and the 5 skills you most want to improve.
+
+strong interpersonal skills, empathetic, socail realtionship, presentation, public speaking.
+
+data entery (word and excel), 69 words per/minute
+
+aws skills, cybersecutiy
+
+raising myself up to the occasion
+
+What you find most challenging: Soft skills, technical skills, or tools. Why?
+
+Your thoughts about grit, a growth mindset, or both. Do you understand the concepts? Do you think you have grit/a growth mindset/both?
+
+One thing you have enjoyed the most about the course so far.
+
+1. **Goal** : What do you want to achieve, what does your goal mean to you, when do you think you will meet your goal? Is your goal SMART (Specific, Measurable, Achievable, Relevant, and Time-bound)?
+2. **Reality**: What is the current situation you are dealing with? What is needed to make your goal become a reality? what challenges do you expect to encounter? how might you deal with them? Is there a barrier that might block you from achieving your goal?
+3. **Options**: What options do you have to minimize or eliminate that barrier, making it more likely that you’ll achieve your goal? Can you list 3 or 4 options? What are a few things you could do (differently) to get you closer to your goal? what are the pros and cons of each option? what factors will you use to weigh up these options?
+4. **Will/Way Forward**: So what is your way forward (W)? What will you do? What is your commitment?, rate you commitment to your goal from 1 to 10, What needs to happen to make it a 10/10 likelihood that you’ll complete your goal? identify practical solutions to meet the goal like blocking out an hour a week to work? how would you feel if you meet your goal?
+5. **summarize what the coachee said, Do you have any requests for me regarding how I might help you meet your commitment?**
+
+### Ref
+1. one page[reading](https://drive.google.com/file/d/1gN7v2trFjlvvGN1h9ie6OHfz1NEAtVT4/view)
+2. short [video](https://youtu.be/1fbooiSh_bA)
+3. check [list](https://drive.google.com/file/d/1WePo7zD8wfAuaIT-BzqJ6m9g7Op15h29/view)
+
+### mindset
+When people believe that they cannot change their intelligence through effort (a belief known as a “fixed mindset”) they have much poorer outcomes in many areas of life. However, when people understand that intelligence, talent, and skill can all be improved through effort, this is called a “growth mindset”. Many studies show that people with a growth mindset experience much more success than those with a fixed mindset. Look at the image below to see some fundamental differences between the two mindsets.
 
 
+![mindsets](https://github.com/user-attachments/assets/36423b87-f483-4596-9215-5750aec5cbeb)
 
 
+When we add the word “yet,” to a statement about our abilities – for example, “I am not good at statistics yet. ” or “I don’t know how to repair a refrigerator yet. ” – it reminds us that our intelligence and knowledge are fluid and can grow. It reminds us that if we put in time and effort, we can learn more, develop more skills, and become better at things. This mindset is critical for our success!
+
+### Grit
+What is Grit?
+Grit is the passion and tenacity towards long-term, worthwhile goals. It is the capacity to stick with something and show perseverance when challenged.
+
+Grit is crucial because it propels performance and success independent of and beyond the contributions that ability and intelligence make. Being naturally intelligent and skilled is wonderful, but to succeed and thrive, we need the capacity for perseverance.
+
+https://youtu.be/H14bBuluwB8
+
+### self regulation
+We like to think of self-regulation as the next logical step you take after self-awareness,
+That is, now that you know how you behave in different situations, self-regulation is what you do about/with that knowledge.
+
+https://www.forbes.com/sites/forbescoachescouncil/2017/06/09/congratulations-youre-self-aware-now-what/#1b1023e96060
+
+What is the difference between self-awareness and self-regulation?
+Why do I as a young leader need to self-regulate?
+What are the practical steps I can follow to self-regulate?
+
+### self imporvment
+
+Now that you understand more about self-regulation and emotional intelligence, let’s explore the science behind self-improvement and discover a formula that promotes meaningful (long-term) behavior change.
+
+Below, we’ll watch a video by Dr. B. J. Fogg, a psychologist, and innovator who directs the Persuasive Tech Lab at Stanford University. He advocates that the best way to improve yourself and make noticeable, long-term behavior changes is by making incremental, tiny changes in your habits. As you watch, pay attention to:
+
+How do long-term tiny incremental behavioural changes impact your habits?
+What is Fogg’s Format used for?
+
+https://youtu.be/AdKUJxjn-R8
+
+Have you ever felt so angry or upset that you couldn’t think straight? Your brain is foggy? Did you snap at everyone around you? You felt tired, physically, even without moving at all?
+
+Luckily, there is a simple method by which we can manage any strong or overwhelming emotions – it is called the “RULER” Method. This method relies on us becoming curious about our emotions instead of being their victims. Find out what “RULER” stands for by clicking through the interactive cards below:
+<img width="269" alt="Ruler" src="https://github.com/user-attachments/assets/966ca856-76a8-4a6d-9f14-3e78499d25b1" />
+<img width="543" alt="Ruler2" src="https://github.com/user-attachments/assets/2ec82262-b44e-45ad-9844-eeb5f8276952" />
+
+Self-awareness is understanding the impact of your behavior on other people, while self-regulation is making adjustments to your behavior for the betterment of a situation
+
+What are the biggest mistakes in dealing with feelings?
 
 
+Ignoring them
+
+One practical step in self-regulation for leaders is a 360 assessment. What is the benefit of conducting a 360 leadership assessment?
+
+
+It highlights your leadership capabilities and identifies areas for development
+
+Think about a time when you experienced strong emotion.
+Transport yourself back to that moment – remember where you were, what just happened, and what you were feeling. Write these elements of that event of time down.
+Now, click this intervention article (“Emotional Self-Regulation: RULER method”, BYU) and go through it to get a better understanding of the RULER method and apply it to reflect on this event you just thought of.
+Take a piece of paper and go through the questions above, and those listed in the intervention article.
+
+## practice self improvement
+What does your ideal day look like? Do you get to go for a run in the morning, or maybe sit and read the news for a bit? Do you get to journal in the evening, or call your Mom to check in? Go onto your calendar (whether in your personal diary or on Google Calendar) and block out the times of the day that you would like to do specific tasks. It could look something like below:
+
+ Go onto your calendar (whether in your personal diary or on Google Calendar) and block out the times of the day that you would like to do specific tasks. 
+
+ https://www.youtube.com/watch?v=hun0rhAGpYI
+ 
+![habitTracker](https://github.com/user-attachments/assets/c3e373ef-47b7-47f6-97b1-8104808a8611)
+
+### time manage
+ime management
+Organizing and planning how to divide your time between activities with the goal to optimize your time to get the most important things done effectively.
+
+https://www.actitime.com/time-management/time-management-quiz
+
+There are many ways to manage time e.g. timetables, jotted notes, to-do lists and Google Tasks. 3 powerful ones that can be used individually or together.
+
+Pomodoro Technique
+Eat the Frog
+Breaking Down the Steps and Spreading Them Over Shorter Work Periods
+
+
+Say, you block out 6 - 8 pm on Monday to Friday in your calendar to complete Week 2 content. On Monday, the next step would be to break down all the tasks you need to complete during that specific time block and decide on what the frog is (i.e. what are the big things to focus on completing first). You could prioritize looking at the milestone and test first to get a sense of what they require, then go back to the relevant modules to review the context in 25-minute bursts using the Pomodoro technique.
+
+In summary, managing your time will help you to 1) allocate adequate time and 2) decide on the order of completion of your most important and urgent tasks. Don’t waste precious time doing things that don’t count or matter towards your personal goals. Plan and use your time wisely.
+
+
+Open your Google Calendar or your preferred time management app.
+Schedule the non-negotiable activities that you need to do this week and next week. For example, you can block out your Monday to Friday work hours, school runs, or dinner time with family.
+Add an hour or two to do that one thing that gives you joy. It could be anything personal; a show on Netflix, watching the sunset, or catching up with a friend. Yes, add the fun stuff first. They too are important and give you the motivation to do the more difficult bits.
+Next, add the times that you plan on spending on your university work. This includes reviewing content, completing activities, Tests, and Milestones, and your Daily 3.
+Make sure that key Online Community events are added to your calendar. (You will have received an invitation to add the Community events calendar to your Calendar. Make sure you have accepted it).
+If you are in a city with a hub, consult your City Hub calendar and see if there will be any events that you would like to participate in and add them to your calendar. Remember to include transit times.
+Add a few contingency hours, in case of an emergency. Life happens, and when it does we want to be sure you have a few set aside to catch up on anything that is thrown off track.
+Hopefully, after all this scheduling, you still have gaps in your schedule to do nothing! You can choose to leave the gaps open or add more activities you feel inclined to. Just don’t fill up every single spot on your calendar, so you have some breathing room.
+Are you done? If so, well done! The important part now is for you to follow your schedule, just like an upcoming young leader is known to do :)
+
+### prioritize
+What is the Eisenhower Matrix?
+The Eisenhower Matrix is a common tool to prioritize tasks in order of importance and urgency. You can use it to plan your activities during a specific time slot, day or week. Its purpose is to give you visibility on what you should allocate time to.
+
+https://youtu.be/tT89OZ7TNwc
+
+What do you do when the clock is limited and everything is number one on your prioritization list?
+
+Our approach and suggestion would be to take a deep breath and speak with our stakeholders to let them know about the situation. Keeping those who rely on you informed about what’s going on might give you some ideas on what to do, or they might suggest options you hadn’t considered. That’s when you can figure out how to prioritize things in a difficult situation.
+
+### Prioritization Frameworks for tech teams: Moscow, RICE
+
+![moscow](https://github.com/user-attachments/assets/501a1465-3d0e-48c2-ab22-27044d314476)
+
+These are the features that are absolutely essential for the project or product. They are critical and cannot be compromised. In this case, the “must-have” features are the ones already in the backlog, which are considered crucial for the product’s functionality.
+
+This category includes features that are important but not as critical as the “must-have” ones. The new feature, requested by customers for interactive project data visualization, falls into this category. The team acknowledges its significance but is concerned about potentially delaying the “must-have” features.
+
+These are nice-to-have features but are not critical for the project’s core functionality. In this scenario, there’s no direct mention of “could-have” features, but it’s a category to consider for lower-priority items.
+
+This category includes features that will not be worked on for the current version or iteration of the product. They are intentionally deprioritized.
+
+
+magine you’re part of the engineering team at a hypothetical company called FizzBuzzy that enables customers to visualize their projects. It’s a fast-growing tech startup that offers cloud-based project management software. Do not Fret, we’re going to learn about some technology roles mentioned in this scenario as the course progresses.
+
+The company’s product manager, Jane, recently received feedback from several customers that they need a new feature that allows them to visualize their project data more interactively. This feature will require significant development effort from the software engineering team, and it’s not currently in the team’s backlog. Jane has brought this request to the engineering team, and they have started discussing how to prioritize it.
+
+The software engineers on the team are concerned that adding this feature will delay some other critical features that are already in the backlog. The team’s lead developer, Kyanyi, suggests that they use the MoSCoW framework to prioritize the feature. He proposes that the team discusses and categorize all the items in the backlog, including this new feature, into the following categories:
+
+Khanyi suggests that they prioritize the new feature as a “should-have” and work on it after they have completed the “must-have” features in the backlog. The software engineers are concerned that this may not satisfy the customers who have requested the new feature, but they also agree that they cannot delay the “must-have” features.
+
+Jane brings this discussion to the leadership team, and they have some different perspectives. The VP of Sales, Akinola, believes that this new feature is critical to closing deals with some potential customers, and thus should be prioritized as a “must-have.” The CEO, Susan, agrees that the feature is important but is also concerned about the development resources needed to complete it.
+
+After some discussion,the team agrees to prioritize the new feature as a “should-have,” but they also agree to start working on it after they have completed the next critical feature in the backlog. The software engineers agree to provide regular updates to Jane and Akinola on the progress of the new feature, and the leadership team agrees to communicate to potential customers that the feature is on the roadmap but may not be available immediately.
+
+The team agrees to review the prioritization regularly and make adjustments as needed based on customer feedback, resource availability, and business priorities
+
+## RICE
+https://youtu.be/kz7AHlsdlG4
+reach: how many people will be affected by a feature or a task within a specified period of time
+impact: how much influence will the feature have on objective
+confidence: how much are you confident that the task will meet it's impact and reach (will help making data-driven decision and less emotional)
+E: effort how much effort and input the feature requires from the whole team in terms of resourcce and time
+
+In general, when teams are prioritizing there are things to watch out for to make the process seamless and ensure that the team focuses on the right things in the right order. These are:
+
+Focus on Value: Agile teams should prioritize work items that deliver the most value to the business or the users. They should prioritize features or tasks that will have the most significant impact on the business, customers, or users.
+Use Feedback: Agile teams should use feedback from stakeholders, customers, and end-users to inform their prioritization decisions. Feedback can help teams to understand which features or tasks are most important to customers or end-users and prioritize accordingly.
+Break Work into Small Pieces: Agile teams should break down work into small, manageable pieces that can be completed in short iterations or sprints which we’ll cover later in the course. This approach helps teams to prioritize work items that can be delivered quickly and frequently, leading to more frequent feedback and validation.
+Collaborate: Prioritization should be a collaborative effort that involves all team members. Teams should have a shared understanding of the priorities, and everyone should be aligned on what the team is working on and why. The scenario demonstrated by Jane and the team is a perfect example!
+<img width="340" alt="prioritizingQ" src="https://github.com/user-attachments/assets/7945f008-122e-45b3-81a7-8bd5f0774bd8" />
 
