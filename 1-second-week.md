@@ -240,40 +240,30 @@ Go onto your calendar (whether in your personal diary or on Google Calendar) and
 ![habitTracker](https://github.com/user-attachments/assets/c3e373ef-47b7-47f6-97b1-8104808a8611)
 
 ### time manage
-ime management
+
 Organizing and planning how to divide your time between activities with the goal to optimize your time to get the most important things done effectively.
 
-https://www.actitime.com/time-management/time-management-quiz
-
-There are many ways to manage time e.g. timetables, jotted notes, to-do lists and Google Tasks. 3 powerful ones that can be used individually or together.
-
-Pomodoro Technique
-Eat the Frog
-Breaking Down the Steps and Spreading Them Over Shorter Work Periods
-
+take this [test](https://www.actitime.com/time-management/time-management-quiz) to test your time management skills
 
 Say, you block out 6 - 8 pm on Monday to Friday in your calendar to complete Week 2 content. On Monday, the next step would be to break down all the tasks you need to complete during that specific time block and decide on what the frog is (i.e. what are the big things to focus on completing first). You could prioritize looking at the milestone and test first to get a sense of what they require, then go back to the relevant modules to review the context in 25-minute bursts using the Pomodoro technique.
 
-In summary, managing your time will help you to 1) allocate adequate time and 2) decide on the order of completion of your most important and urgent tasks. Don’t waste precious time doing things that don’t count or matter towards your personal goals. Plan and use your time wisely.
-
-
-Open your Google Calendar or your preferred time management app.
-Schedule the non-negotiable activities that you need to do this week and next week. For example, you can block out your Monday to Friday work hours, school runs, or dinner time with family.
 Add an hour or two to do that one thing that gives you joy. It could be anything personal; a show on Netflix, watching the sunset, or catching up with a friend. Yes, add the fun stuff first. They too are important and give you the motivation to do the more difficult bits.
-Next, add the times that you plan on spending on your university work. This includes reviewing content, completing activities, Tests, and Milestones, and your Daily 3.
-Make sure that key Online Community events are added to your calendar. (You will have received an invitation to add the Community events calendar to your Calendar. Make sure you have accepted it).
-If you are in a city with a hub, consult your City Hub calendar and see if there will be any events that you would like to participate in and add them to your calendar. Remember to include transit times.
+
+Make sure that key Online Community events are added to your calendar.
+
+If you are in a city with a hub, consult your City Hub calendar and see if there will be any events that you would like to participate in and add them to your calendar.
+
 Add a few contingency hours, in case of an emergency. Life happens, and when it does we want to be sure you have a few set aside to catch up on anything that is thrown off track.
+
 Hopefully, after all this scheduling, you still have gaps in your schedule to do nothing! You can choose to leave the gaps open or add more activities you feel inclined to. Just don’t fill up every single spot on your calendar, so you have some breathing room.
+
 Are you done? If so, well done! The important part now is for you to follow your schedule, just like an upcoming young leader is known to do :)
 
 ### prioritize
-What is the Eisenhower Matrix?
-The Eisenhower Matrix is a common tool to prioritize tasks in order of importance and urgency. You can use it to plan your activities during a specific time slot, day or week. Its purpose is to give you visibility on what you should allocate time to.
+1. **Eisenhower Matrix**: it is a common tool to prioritize tasks in order of importance and urgency.
 
-https://youtu.be/tT89OZ7TNwc
-
-What do you do when the clock is limited and everything is number one on your prioritization list?
+> [!IMPORTANT]
+> What do you do when the clock is limited and everything is number one on your prioritization list?
 
 Our approach and suggestion would be to take a deep breath and speak with our stakeholders to let them know about the situation. Keeping those who rely on you informed about what’s going on might give you some ideas on what to do, or they might suggest options you hadn’t considered. That’s when you can figure out how to prioritize things in a difficult situation.
 
@@ -281,16 +271,15 @@ Our approach and suggestion would be to take a deep breath and speak with our st
 
 ![moscow](https://github.com/user-attachments/assets/501a1465-3d0e-48c2-ab22-27044d314476)
 
-These are the features that are absolutely essential for the project or product. They are critical and cannot be compromised. In this case, the “must-have” features are the ones already in the backlog, which are considered crucial for the product’s functionality.
+1. **must have**: These are the features that are absolutely essential for the project or product. They are critical and cannot be compromised. In this case, the “must-have” features are the ones already in the backlog, which are considered crucial for the product’s functionality.
 
-This category includes features that are important but not as critical as the “must-have” ones. The new feature, requested by customers for interactive project data visualization, falls into this category. The team acknowledges its significance but is concerned about potentially delaying the “must-have” features.
+2. **should have**: This category includes features that are important but not as critical as the “must-have” ones. The new feature, requested by customers for interactive project data visualization, falls into this category. The team acknowledges its significance but is concerned about potentially delaying the “must-have” features.
 
-These are nice-to-have features but are not critical for the project’s core functionality. In this scenario, there’s no direct mention of “could-have” features, but it’s a category to consider for lower-priority items.
+3. **could have**: These are nice-to-have features but are not critical for the project’s core functionality. In this scenario, there’s no direct mention of “could-have” features, but it’s a category to consider for lower-priority items.
 
-This category includes features that will not be worked on for the current version or iteration of the product. They are intentionally deprioritized.
+4. **won't have**: This category includes features that will not be worked on for the current version or iteration of the product. They are intentionally deprioritized.
 
-
-magine you’re part of the engineering team at a hypothetical company called FizzBuzzy that enables customers to visualize their projects. It’s a fast-growing tech startup that offers cloud-based project management software. Do not Fret, we’re going to learn about some technology roles mentioned in this scenario as the course progresses.
+imagine you’re part of the engineering team at a hypothetical company called FizzBuzzy that enables customers to visualize their projects. It’s a fast-growing tech startup that offers cloud-based project management software. Do not Fret, we’re going to learn about some technology roles mentioned in this scenario as the course progresses.
 
 The company’s product manager, Jane, recently received feedback from several customers that they need a new feature that allows them to visualize their project data more interactively. This feature will require significant development effort from the software engineering team, and it’s not currently in the team’s backlog. Jane has brought this request to the engineering team, and they have started discussing how to prioritize it.
 
@@ -305,95 +294,61 @@ After some discussion,the team agrees to prioritize the new feature as a “shou
 The team agrees to review the prioritization regularly and make adjustments as needed based on customer feedback, resource availability, and business priorities
 
 ## RICE
-https://youtu.be/kz7AHlsdlG4
-reach: how many people will be affected by a feature or a task within a specified period of time
-impact: how much influence will the feature have on objective
-confidence: how much are you confident that the task will meet it's impact and reach (will help making data-driven decision and less emotional)
-E: effort how much effort and input the feature requires from the whole team in terms of resourcce and time
+
+1. **reach:** how many people will be affected by a feature or a task within a specified period of time
+2. **impact**: how much influence will the feature have on objective
+3. **confidence**: how much are you confident that the task will meet it's impact and reach (will help making data-driven decision and less emotional)
+4. **effort** how much effort and input the feature requires from the whole team in terms of resourcce and time
 
 In general, when teams are prioritizing there are things to watch out for to make the process seamless and ensure that the team focuses on the right things in the right order. These are:
 
-Focus on Value: Agile teams should prioritize work items that deliver the most value to the business or the users. They should prioritize features or tasks that will have the most significant impact on the business, customers, or users.
-Use Feedback: Agile teams should use feedback from stakeholders, customers, and end-users to inform their prioritization decisions. Feedback can help teams to understand which features or tasks are most important to customers or end-users and prioritize accordingly.
-Break Work into Small Pieces: Agile teams should break down work into small, manageable pieces that can be completed in short iterations or sprints which we’ll cover later in the course. This approach helps teams to prioritize work items that can be delivered quickly and frequently, leading to more frequent feedback and validation.
-Collaborate: Prioritization should be a collaborative effort that involves all team members. Teams should have a shared understanding of the priorities, and everyone should be aligned on what the team is working on and why. The scenario demonstrated by Jane and the team is a perfect example!
-<img width="340" alt="prioritizingQ" src="https://github.com/user-attachments/assets/7945f008-122e-45b3-81a7-8bd5f0774bd8" />
+**Focus on Value**: Agile teams should prioritize work items that deliver the most value to the business or the users. They should prioritize features or tasks that will have the most significant impact on the business, customers, or users.
+
+**Use Feedback**: Agile teams should use feedback from stakeholders, customers, and end-users to inform their prioritization decisions. Feedback can help teams to understand which features or tasks are most important to customers or end-users and prioritize accordingly.
+
+**Break Work into Small Pieces**: Agile teams should break down work into small, manageable pieces that can be completed in short iterations or sprints. This approach helps teams to prioritize work items that can be delivered quickly and frequently, leading to more frequent feedback and validation.
+
+**Collaborate**: Prioritization should be a collaborative effort that involves all team members. Teams should have a shared understanding of the priorities, and everyone should be aligned on what the team is working on and why. The scenario demonstrated by Jane and the team is a perfect example!
+
+<img width="100%" alt="prioritizingQ" src="https://github.com/user-attachments/assets/7945f008-122e-45b3-81a7-8bd5f0774bd8" />
 
 ## GCGO
-- start with your why
-Why did you choose to become an entrepreneur? What are those driving factors that have you doing hard things? What is your WHY? To help you think through and answer these paramount questions, watch this powerful and classic TedTalk by Simon Sinek, who speaks to the power of knowing your WHY. It will soon help you realize that people don’t buy what you create or do; they buy WHY you do it.
+
+**start with your why**
+
+- What do I want to accomplish and contribute to society?
+- At first glance, which GCGO resonates with me the most?
+- What challenges/opportunities feel most interesting and important to me?
+- In what ways (big or small) might I creatively weave my career and societal contribution (or GCGO of choice) together over the next year?
+- What resources can I curate to learn more about merging my path in tech with the GCGO(s) that resonate(s) with me?
+- Why did you choose to become an entrepreneur? What are those driving factors that have you doing hard things? What is your - WHY? It will soon help you realize that people don’t buy what you create or do; they buy WHY you do it.
 
 ![GCGO](https://github.com/user-attachments/assets/aade4bf6-c60c-42da-a470-cadddc3e6bf3)
 
-Why each area is labelled a challenge or opportunity.
-The role that tech is playing in bringing solutions and change.
-
-What do I want to accomplish and contribute to society?
-At first glance, which GCGO resonates with me the most?
-What challenges/opportunities feel most interesting and important to me?
-In what ways (big or small) might I creatively weave my career and societal contribution (or GCGO of choice) together over the next year?
-What resources can I curate to learn more about merging my path in tech with the GCGO(s) that resonate(s) with me?
+read about Why each area is labelled a challenge or opportunity and The role that tech is playing in bringing solutions and change.
 
 ## Urbanization
-
-https://youtu.be/Sv5QitqbxJw
-
-https://www.worldbank.org/en/news/feature/2021/01/18/harnessing-smart-technology-for-sustainable-development-in-developing-countries-tdlc
-
-city brain china project
-https://youtu.be/v4_2QuS4Xns
+look in resources
 
 ## regional integeration
-https://youtu.be/lfgyix6U_gI
 
 Regional integration is challenging because it’s a multi-faceted challenge. This means that to solve this, multiple industries such as road, internet, and financial infrastructure, need to have matured to help with the cause. For example, a huge part of regional integration is being able to trade with one another. To do that, you need financial infrastructure to facilitate payments across borders and the ability to move goods safely and in good time to mention only a few things that need to work flawlessly.
 
 Some companies working in the regional integration space include payment facilitators such as Flutterwave which aims to power a new wave of prosperity across Africa with fin-tech products that combine finance and technology.
 
-Feel inspired by this video on how Flutterwave bridges the gap for African entrepreneurs. We want you to be part of the story and our goal is to have links to your startups and companies, tackling big challenges like the one below.
-
-flutter wave
-https://youtu.be/j0jY5P4b82s
-
-https://youtu.be/fX3yShrHF5Q?si=sirvdQbTGKqMixzR
+look in resources 
 ## creating jobs
 
-how agriculture and food systems can be a solution.
+agriculture and food systems can be a solution, Technology, Healthcare and Hospitality are also expected to create millions of jobs by 2030.
 
-Technology, Healthcare and Hospitality are also expected to create millions of jobs by 2030.
-
-https://openknowledge.fao.org/server/api/core/bitstreams/9f9955b8-bc5e-4b4f-b278-a85ab7afa030/content
-
-andela
-
-https://youtu.be/RMuK2Hby3Eg
+look in resources
 
 ### google workspace
-https://youtu.be/QzZ3OFBq8oU
-
-## gmail
-https://youtu.be/CtRgwJaW2N4
-https://savanna.alxafrica.com/concepts/107761
-
-## google calender
-
-
-https://youtu.be/6dyCOXNLp8U
-
-### google dirve
-free cloud-based file storage and synchronization service developed by Google
-https://youtu.be/gdrxAoqfvbA
-There are many alternative cloud storage services to Google Drive. These include Amazon S3, pCould, Box or DropBox.
-https://savanna.alxafrica.com/concepts/107766
-
-### docs
-https://youtu.be/RzNVGQYOmFk
-https://youtu.be/I0OqnItA-zA
-
-
-
-
-
+- gmail, calender, drive, docs, sheets and slides
+- drive is a free cloud-based file storage and synchronization service developed by Google
+- There are many alternative cloud storage services to Google Drive. These include Amazon S3, pCould, Box or DropBox.
+- 
+look in resources
 
 ### Ref
 - [prioritize you life](https://youtu.be/cPgMeKfQFq8)
@@ -411,3 +366,20 @@ https://youtu.be/I0OqnItA-zA
 - [360 leadership assessment](https://leadershipcircle.com/leadership-assessment-tools/)
 - [habit tracker]( https://www.youtube.com/watch?v=hun0rhAGpYI)
 - [tiny changes](https://youtu.be/AdKUJxjn-R8)
+- [Eisenhower Matrix](https://youtu.be/tT89OZ7TNwc)
+- [RICE](https://youtu.be/kz7AHlsdlG4)
+- [urbanization](https://youtu.be/Sv5QitqbxJw)
+- [urbanization 2](https://www.worldbank.org/en/news/feature/2021/01/18/harnessing-smart-technology-for-sustainable-development-in-developing-countries-tdlc)
+- [city brain](https://youtu.be/v4_2QuS4Xns) china project
+- [potential for jobs in the agricultural and food systems(https://openknowledge.fao.org/server/api/core/bitstreams/9f9955b8-bc5e-4b4f-b278-a85ab7afa030/content)
+- [flutter wave](https://youtu.be/j0jY5P4b82s)
+- [regional integeration](https://youtu.be/lfgyix6U_gI?si=Tn6ru85gHqwQ2DlI)
+- [symphony AI](https://youtu.be/fX3yShrHF5Q?si=TI427wrlD0sPoGNc)
+- [andela](https://youtu.be/RMuK2Hby3Eg)
+- [Google work space](https://youtu.be/QzZ3OFBq8oU)
+- [Gmail intro](https://youtu.be/CtRgwJaW2N4)
+- [Gmail signature](https://savanna.alxafrica.com/concepts/107761)
+- [calender](https://youtu.be/6dyCOXNLp8U)
+- [drive](https://youtu.be/gdrxAoqfvbA)
+- [docs in details](https://youtu.be/RzNVGQYOmFk?si=PYy3jhIIwZlBJdzm)
+- [docs in summary](https://youtu.be/I0OqnItA-zA?si=6oDZBO7uZrGZKZwN)
