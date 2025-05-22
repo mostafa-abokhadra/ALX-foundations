@@ -371,7 +371,7 @@ look in resources
 - [urbanization](https://youtu.be/Sv5QitqbxJw)
 - [urbanization 2](https://www.worldbank.org/en/news/feature/2021/01/18/harnessing-smart-technology-for-sustainable-development-in-developing-countries-tdlc)
 - [city brain](https://youtu.be/v4_2QuS4Xns) china project
-- [potential for jobs in the agricultural and food systems(https://openknowledge.fao.org/server/api/core/bitstreams/9f9955b8-bc5e-4b4f-b278-a85ab7afa030/content)
+- [potential for jobs in the agricultural and food systems](https://openknowledge.fao.org/server/api/core/bitstreams/9f9955b8-bc5e-4b4f-b278-a85ab7afa030/content)
 - [flutter wave](https://youtu.be/j0jY5P4b82s)
 - [regional integeration](https://youtu.be/lfgyix6U_gI?si=Tn6ru85gHqwQ2DlI)
 - [symphony AI](https://youtu.be/fX3yShrHF5Q?si=TI427wrlD0sPoGNc)
