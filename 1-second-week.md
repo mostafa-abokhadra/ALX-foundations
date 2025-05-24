@@ -206,6 +206,13 @@ you can be self-aware and choose not to self-regulate, this is a tactic often em
 
 In the simplest terms, self-awareness is when you understand the impact of your behavior on other people. Self-regulation is being aware of this impact and making adjustments to your behavior, often for the betterment of a situation
 
+### leadership circle profile
+The Leadership Circle Profile® (LCP) provides a detailed snapshot in time, enabling leaders to answer the question: How are my behaviors and mindset enabling or constraining my intended leadership impact and our business performance?
+
+The Leadership Circle Profile is the only instrument that measures the two primary leadership domains — Creative Competencies and Reactive Tendencies. It measures underlying beliefs and assumptions—the habits of thought that run much of our behavior. As leaders gain these insights, they have much higher leverage to make transformative change.
+
+### 360° leadership [assessment](https://self-assessment.theleadershipcircle.com/en-US/registration?_gl=1*1yy7s0v*_gcl_au*MTcxNDgwODg3OC4xNzQ4MDgxNjI3*_ga*MTYwODk1ODExNS4xNzQ4MDgxNjI3*_ga_7BE657G74J*czE3NDgwODQ3MjMkbzIkZzEkdDE3NDgwODQ3NzMkajEwJGwwJGgwJGRkTFVTQkVNbmhvdmFpVktPODlpZFNva3F6dU1FTUJudmxR)
+Unlike a typical leadership assessment, a 360° leadership assessment gathers feedback from people at all levels in the organization with a relevant perspective on the participant’s leadership ability – bosses, associates, and peers, and direct reports. They evaluate the participant’s leadership skills, attitudes, influence, overall effectiveness, and other key leadership competencies. Leadership Circle Profile is unique because it is the only 360° assessment that measures Creative Competencies and Reactive Tendencies, combining leadership’s inner and outer attributes. This 360-degree assessment feedback gives the leader greater insight into how they are perceived, including strengths and current limitations in their leadership effectiveness.
 ### self imporvment
 
 Now that you understand more about self-regulation and emotional intelligence, let’s explore the science behind self-improvement and discover a formula that promotes meaningful (long-term) behavior change.
@@ -328,6 +335,9 @@ In general, when teams are prioritizing there are things to watch out for to mak
 read about Why each area is labelled a challenge or opportunity and The role that tech is playing in bringing solutions and change.
 
 ## Urbanization
+- 20% of urban population live in a slum
+- cities take up just 3% of the world's surface area yet account for more that75% of our energy consumption and emit 80% of our greenhouse gases
+
 look in resources
 
 ## regional integeration
@@ -344,6 +354,9 @@ agriculture and food systems can be a solution, Technology, Healthcare and Hospi
 look in resources
 
 ### google workspace
+
+<img width="818" alt="workSpace" src="https://github.com/user-attachments/assets/c37efe6a-9ccd-48f9-bcf5-b094a7f17fa4" />
+
 - gmail, calender, drive, docs, sheets and slides
 - drive is a free cloud-based file storage and synchronization service developed by Google
 - There are many alternative cloud storage services to Google Drive. These include Amazon S3, pCould, Box or DropBox.
