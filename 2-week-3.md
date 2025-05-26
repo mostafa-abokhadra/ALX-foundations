@@ -25,7 +25,31 @@ This makes it a crucial skill to be used in building meaningful connections with
 
 > empathetic problem solving is the ability to really understand and feel another's perspective in a confilict or issue.
 >
-> empathetic problem solving is about what you do in communication while solving a problem but also about what you don't don
+> empathetic problem solving is about what you do in communication while solving a problem but also about what you don't do
+
+![Screen_Shot_2014-11-19_at_9 34 20_AM](https://github.com/user-attachments/assets/96ff35c3-d96d-47d8-8aca-dded4c2ab1b1)
+
+**What is deep listening?**
+
+Deep listening is a way of listening where we are fully present without trying to immediately control or judge a situation, we do our best to stay in the moment and not jump ahead and define or solve the problem before we have more information, We also try to push away our preconceived notions about the situation or the people involved
+
+**Telling**
+
+Telling, on the other hand, is when we jump in and try to tell someone what happened before getting his or her perspective. When this happens, people tend to shut down and be resistant to solutions, even very good ones, because they don’t feel they were really heard.
+
+**Questioning**
+
+is about asking questions to understand what happened so that you can arrive at a workable solution, Your questions should be as neutral and judgment free as possible, Real questioning should be about revealing obstacles and uncovering alternate paths ahead
+
+The other side of the coin is blame. Blame is about figuring out ‘who did it.’
+### empathy types
+1. **cognitive empathy**: i understand how you think about things, i can see thing from your perspective, very effective in giving feedback cause i know how to put it to you so it make a better sense to you, it downside that  people with only this kind of empathy can be manipulative
+2. **emotional empathy**: i feel with you, if i don't care how you feel then i don't mind make you feel terribly, i don't mind to take advantages of you, it is the type that create chemistry, rapport, sympatico, downside that it can lead to emotional exhausation and burnout esp. if you are a nurse that has to deal with children in pain all day long or an hr who has to fireout every one, emotional self management skills allows you to counter that
+3. **empathic concern**: when i see you in trouble, i spontaneously want to help you out
+
+emapthy is perspective taking, recognizing that their perspective is their truth, staying out of judgment, recognizing emotions in other people and communicating that, in order to connect with you i have to connect with something with myself that knows that feeling
+
+don't try to make things better or solve the problem, (i don't even know what to say right now, but i'm very glad you told me) rarely a response can make something better, what make something better is connection
 
 **Human-centered design (HCD):** 
 
@@ -52,3 +76,5 @@ By putting yourself in the user’s shoes and understanding their problems, need
 - [kinds of empathy](https://youtu.be/WdDVvLEKoc8)
 - [art of problem solving](https://www.stathakis.com/blog/leadership/the-art-of-empathetic-problem-solving)
 - [compassion](https://youtu.be/r3wyCxHtGd0)
+- read more for Brené Brown on Empathy
+
