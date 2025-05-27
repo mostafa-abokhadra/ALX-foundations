@@ -93,6 +93,133 @@ knowing where you currently are, and where you would like to be is a clear roadm
 - make another list for things you do that hinder you from reaching your goal
 - set goals and set intentions (way of living, thinking, and being), You might set an intention to be a kinder person. Yes, I guess that could be a goal but the idea is you won’t stop once you are kind to someone once… It’s a lifesty
 
+## Climate changes
+- it is a long-term shifts in temperatures and weather patterns.
+-  human activities have been the main driver of climate change, primarily due to the burning of fossil fuels (a natural
+- fuel such as coal or gas, formed in the geological past from the remains of living organisms.)like coal, oil and gas.
+- Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun’s heat and raising temperatures, Greenhouse gases (GHGs) are a group of gases in the atmosphere that trap heat and contribute to the greenhouse effect, which keeps Earth's surface warm enough for life. By absorbing and re-emitting infrared radiation, these gases prevent heat from escaping into space, leading to a warming effect
+- The main greenhouse gases that are causing climate change include carbon dioxide and methane. These come from using gasoline for driving a car or coal for heating a building, for example. Clearing land and cutting down forests(deforestation,) can also release carbon dioxide. The two biggest human-caused sources for methane release are agriculture (especially cows and rice farming) and oil & gas operations (leaks and intentional releases). Energy, industry, transport, buildings, agriculture and land use are among the main sectors causing greenhouse gases.
+
+### **Methane Emissions Explained**  
+
+Methane (CH₄) is a powerful greenhouse gas that contributes to **global warming**. It comes from both natural sources (like wetlands) and human activities. The two biggest human-caused sources are **agriculture** (especially cows and rice farming) and **oil & gas operations** (leaks and intentional releases).  
+
+---
+
+## **1. Agriculture: Why Do Cows and Farms Produce Methane?**  
+
+### **A. Cows and Other Ruminants (Enteric Fermentation)**  
+- **What happens?** Cows, sheep, and goats have special stomachs (rumens) where microbes break down tough plants.  
+- **Methane production:** These microbes produce methane as a byproduct, which the animals **burp out** (not farting, mostly!).  
+- **Why it’s a problem?** There are **billions** of livestock worldwide, making this a huge methane source.  
+
+### **B. Manure Management**  
+- **What happens?** When animal poop is stored in large piles or liquid lagoons (common in big farms), bacteria break it down **without oxygen**, releasing methane.  
+- **Solution?**  
+  - **Cover manure storage** (to capture methane for energy).  
+  - **Compost manure** (reduces methane by using oxygen).  
+
+### **C. Rice Farming**  
+- **What happens?** Rice grows in flooded fields, which creates low-oxygen conditions where bacteria produce methane.  
+- **Solution?**  
+  - **Alternate wetting & drying (AWD):** Let fields dry out sometimes.  
+  - **Different rice strains** (some produce less methane).  
+
+---
+
+## **2. Oil & Gas: Where Does Methane Leak?**  
+
+### **A. Leaks (Fugitive Emissions)**  
+- **What happens?** Methane escapes from **pipelines, wells, storage tanks, and valves** due to poor maintenance.  
+- **Example:** A single leaking pipeline can release methane for years unnoticed.  
+
+### **B. Venting & Flaring**  
+- **Venting:** Companies sometimes **release methane** into the air on purpose (often because it’s cheaper than capturing it).  
+- **Flaring:** Burning methane (which turns it into CO₂, a less harmful gas), but sometimes flares don’t work well, releasing raw methane.  
+
+### **C. Abandoned Wells**  
+- Old oil/gas wells that aren’t properly sealed can leak methane for decades.  
+
+### **Solutions?**  
+- **Better monitoring:** Use drones, satellites, and sensors to find leaks fast.  
+- **Fix leaks quickly:** Mandatory repairs for oil & gas companies.  
+- **Ban routine venting & flaring:** Some countries now require methane capture instead.  
+
+---
+
+## **3. Why Is Methane Such a Big Deal for Climate Change?**  
+- **Short-term impact:** Methane is **80x stronger than CO₂** at trapping heat in the atmosphere over 20 years.  
+- **But it doesn’t last as long:** Methane breaks down in about **10-12 years**, while CO₂ stays for centuries.  
+- **Good news:** If we cut methane now, we can **slow global warming quickly**!  
+
+---
+
+## **4. How Can We Reduce Methane Emissions?**  
+
+### **For Agriculture:**  
+✅ **Change cow diets:** Adding seaweed or special supplements can reduce burps.  
+✅ **Better manure handling:** Capture methane for biogas (clean energy).  
+✅ **Smarter rice farming:** Less flooding = less methane.  
+
+### **For Oil & Gas:**  
+✅ **Strict leak detection laws:** Force companies to check and fix leaks.  
+✅ **Stop wasteful venting/flaring:** Use the gas instead of releasing it.  
+✅ **Plug old wells:** Governments can fund cleanup of abandoned wells.  
+
+### **For Everyone:**  
+♻ **Eat less meat/dairy** (or choose sustainable farms).  
+♻ **Support methane-reducing policies** (like the **Global Methane Pledge**).  
+
+---
+
+### **Final Thought:**  
+Methane is a **super-pollutant**, but because it doesn’t last long in the air, cutting it gives us a **fast way to fight climate change**. Fixing leaks, feeding cows differently, and improving farming can make a big difference!  
+
+The consequences of climate change now include, among others, intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms and declining biodiversity.
+
+Climate change can affect our health, ability to grow food, housing, safety and work. Some of us are already more vulnerable to climate impacts, such as people living in small island nations and other developing countries. Conditions like sea-level rise and saltwater intrusion have advanced to the point where whole communities have had to relocate, and protracted droughts are putting people at risk of famine. In the future, the number of people displaced by weather-related events is expected to rise.
+
+the emissions that cause climate change come from every part of the world and affect everyone, but some countries produce much more than others. The six biggest emitters (China, the United States of America, India, the European Union, the Russian Federation, and Brazil) together accounted for more than half of all global greenhouse gas emissions in 2023. By contrast, the 45 least developed countries accounted for only 3 per cent of global greenhouse gas emissions.
+
+Many climate change solutions can deliver economic benefits while improving our lives and protecting the environment. We also have global frameworks and agreements to guide progress, such as the Sustainable Development Goals, the UN Framework Convention on Climate Change and the Paris Agreement. Three broad categories of action are: cutting emissions, adapting to climate impacts and financing required adjustments.
+
+Switching energy systems from fossil fuels to renewables like solar or wind will reduce the emissions driving climate change. But we have to act now. While a growing number of countries is committing to net zero emissions by 2050, emissions must be cut in half by 2030 to keep warming below 1.5°C. Achieving this means huge declines in the use of coal, oil and gas: production and consumption of all fossil fuels need to be cut by at least 30 per cent by 2030 in order to prevent catastrophic levels of climate change.
+
+### Sustainable Development Goals
+
+![sdg--1--en](https://github.com/user-attachments/assets/7e55626f-0df0-41d9-8818-d47a98c582cb)
+
+![sdg--2--en](https://github.com/user-attachments/assets/1839b65a-a6dc-4017-a3cd-e692f0e1693e)
+
+![sdg--3--en](https://github.com/user-attachments/assets/b20674af-be02-43fd-8f58-01205836ee13)
+
+![sdg--4--en](https://github.com/user-attachments/assets/2bfb8596-7238-45f6-a3f5-476e14f17a80)
+
+![sdg--5--en](https://github.com/user-attachments/assets/d68ec4ee-6e4f-48dd-a630-1bcbbd42d93a)
+
+![sdg--6--en](https://github.com/user-attachments/assets/5d3e73d3-bf8e-4e19-9db5-2cd0cdd804f9)
+
+![sdg--7--en](https://github.com/user-attachments/assets/68e1ce82-1ffd-4daa-a9ed-556690dd7284)
+
+![sdg--8--en](https://github.com/user-attachments/assets/bd81d3c7-4070-40b4-8efe-363de1d49e5f)
+
+![sdg--9--en](https://github.com/user-attachments/assets/c9bb5c44-092b-49f8-93e9-516c5f4e0342)
+
+![sdg--10--en](https://github.com/user-attachments/assets/9e0ca9aa-1802-4181-a361-fb2e10c72618)
+
+![sdg--11--en](https://github.com/user-attachments/assets/66b7f9e6-70c3-473b-9517-386a9411410c)
+
+![sdg--12--en](https://github.com/user-attachments/assets/0b4d63a3-f4c8-4f3c-bb6b-faa4a1ee2909)
+
+![sdg--13--en](https://github.com/user-attachments/assets/19878c0f-fd41-46bc-8631-5198b963ed1c)
+
+![sdg--14--en](https://github.com/user-attachments/assets/0111be25-cb59-4d69-a0ea-476af093e477)
+
+![sdg--15--en](https://github.com/user-attachments/assets/3e40ca40-a19d-4df4-a141-41240ad48597)
+
+![sdg--16--en](https://github.com/user-attachments/assets/486b8a54-449f-4db3-9da7-36d4cc554ad2)
+
+![sdg--17--en](https://github.com/user-attachments/assets/22d332bf-621c-421d-9513-db9d732d64ab)
 
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
@@ -103,4 +230,7 @@ knowing where you currently are, and where you would like to be is a clear roadm
 - [compassion](https://youtu.be/r3wyCxHtGd0)
 - read more for Brené Brown on Empathy
 - [ A collection of articles and writings on maintaining good habits/rhythms.](https://jamesclear.com/articles)
+- [climate changes](https://www.un.org/en/climatechange/what-is-climate-change)
+- [renewable energy](https://www.un.org/en/climatechange/raising-ambition/renewable-energy)
+- [10 Climate Tech Startups](https://www.plugandplaytechcenter.com/insights/future-thinking-startups-fighting-climate-change)
 
