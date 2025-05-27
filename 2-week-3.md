@@ -69,6 +69,31 @@ after launching the app, it’s always good practice to collect feedback and dat
 
 By putting yourself in the user’s shoes and understanding their problems, needs, and perspectives, you can design technology that makes a meaningful impact on people’s lives. In summary, empathy is a crucial skill for anyone working in technology. By practicing empathy, you can build user-centered technology solutions, collaborate effectively with colleagues, consider ethical implications, and give, and receive feedback constructively.
 
+## Tiny habits
+
+Dr. BJ Fogg’s TEDx talk “Forget Big Change, Start with a Tiny Habit” was mind-blowing for so many of you. As you may recall, it touched on:
+
+The importance of celebrating small victories.
+The impact of our environment.
+How to build new habits one small step at a time.
+The role that motivation plays.
+
+Fogg’s format to articulate your action plan: **“After I………(existing habit), I will………(new habit)“**
+
+## life audit
+### circle of life
+knowing where you currently are, and where you would like to be is a clear roadmap
+  
+![Circle-of-life](https://github.com/user-attachments/assets/d46b9ec3-d30a-4765-b99d-c71e80b18020)
+
+- rate your satisfactioin in each category
+- brains storm on how each category might get better and theoritical solution to solve it
+- write down how would you like your perfect day to be, write it down from mommnet of awaken to the momment of sleeping
+- make improvement list (areas where you want to improve)
+- make another list for things you do that hinder you from reaching your goal
+- set goals and set intentions (way of living, thinking, and being), You might set an intention to be a kinder person. Yes, I guess that could be a goal but the idea is you won’t stop once you are kind to someone once… It’s a lifesty
+
+
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
 - [morning pages 2](https://www.chriswinfield.com/morning-pages/)
@@ -77,4 +102,5 @@ By putting yourself in the user’s shoes and understanding their problems, need
 - [art of problem solving](https://www.stathakis.com/blog/leadership/the-art-of-empathetic-problem-solving)
 - [compassion](https://youtu.be/r3wyCxHtGd0)
 - read more for Brené Brown on Empathy
+- [ A collection of articles and writings on maintaining good habits/rhythms.](https://jamesclear.com/articles)
 
