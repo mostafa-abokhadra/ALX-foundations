@@ -221,6 +221,15 @@ Switching energy systems from fossil fuels to renewables like solar or wind will
 
 ![sdg--17--en](https://github.com/user-attachments/assets/22d332bf-621c-421d-9513-db9d732d64ab)
 
+### Agriculture
+What is **Climate-Smart Agriculture (CSA)?**
+
+Climate-smart agriculture (CSA) is an integrated approach to managing landscapes; cropland, livestock, forests and fisheries.
+
+### Health care
+
+![0f95df2ec524c0864d76941f3dc93e476625b4df](https://github.com/user-attachments/assets/90ed5b5e-89b1-4e00-93df-e8e179c5e280)
+
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
 - [morning pages 2](https://www.chriswinfield.com/morning-pages/)
