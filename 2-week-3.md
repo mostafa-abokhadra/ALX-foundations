@@ -230,6 +230,14 @@ Climate-smart agriculture (CSA) is an integrated approach to managing landscapes
 
 ![0f95df2ec524c0864d76941f3dc93e476625b4df](https://github.com/user-attachments/assets/90ed5b5e-89b1-4e00-93df-e8e179c5e280)
 
+### wildlife conservation
+- Wildlife refers to all non-domesticated plants, animals, and other organisms living in their natural habitats.
+- The International Institute of Sustainable Development (IISD) reports that: **More than 40,000 species are threatened with extinction**.
+
+### women empowerement
+### education
+### tourism
+
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
 - [morning pages 2](https://www.chriswinfield.com/morning-pages/)
