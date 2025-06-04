@@ -237,6 +237,122 @@ Climate-smart agriculture (CSA) is an integrated approach to managing landscapes
 ### women empowerement
 ### education
 ### tourism
+Before the COVID-19 pandemic, tourism was the world’s largest service sector—providing one in ten jobs worldwide, almost seven percent of all international trade and 25 percent of the world’s service exports—a critical foreign exchange generator. In 2019 the sector was valued at more than US$9 trillion and accounted for 10.4 percent of global GDP.
+### Arts, culture and design
+
+**What is Blockchain?**
+
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+
+**What is NFT art?**
+
+NFT art is digital art that is tokenized in the blockchain. The artwork is entirely digital, meaning that investors ultimately buy, sell and trade in the metaverse. Just like there is only one original with physical art, NFT art only has one original. Even though it is relatively easy to copy with downloads and screenshots, only the original holds the unique value.
+
+### Infrastructure
+**What is Global Infrastructure?**
+
+Global infrastructure refers to a set of facilities and systems that serve a country, city, or other areas. It encompasses the services and facilities necessary for its economy, households and firms to function.
+
+These facilities include sanitation and waste management systems, water, mining, telecoms, media & technology, transport, and environmental and municipal infrastructure
+
+### Governance and natural resources
+
+## Problem solving
+Whether it’s something smaller like not having a phone charger when you’re in the middle of nowhere, or more significant problems like poverty and climate change, it is crucial to learn how to solve them and make decisions as efficiently and effectively as possible.
+
+**problem**: A problem is an unwanted situation that needs to be addressed or resolved in order to achieve the desired situation, A problem can be regarded as the difference between the actual and desired situations.
+
+> Reflect:\
+> Now that we have a definition, let’s think a little. What are some problems you are currently facing and how are they affecting you? Think of a few problems that you have. They can be big or small. Write them down somewhere as you can refer to
+
+### problem solving process
+1. **identify and define the problem.**
+to identify a problem you must know what the desired outcome is versus the reality. Here are a few examples of problems framed as reality versus desired outcome.
+![2de2198ee1f3d6c5b47223c39e682841fbaa7f89](https://github.com/user-attachments/assets/fbdae181-7fcf-4b7e-9da7-5ae2e02ed83e)
+  1. state your problem in a broad manner
+  2. gather information and data and facts about the issue
+  3. impact it has and consequences it counters
+  4. make sure this is the actual problem
+  5. don't confuse symptoms of the problem with the problem itself
+  6. don't confuse problem with with oppotunities under disguise that you can take advantage of
+
+
+![87117143a691872a6dc465959bb36076fdbec64b](https://github.com/user-attachments/assets/ebca578a-6dbd-43b6-9603-a67f639e4ec1)
+
+**SMART** Goals: specific, measurable, attainable, relevant and time-based.
+
+To define a problem, you can use Lean’s “5 Times Why” method to find the root cause of the problem. In simple terms, you keep asking “why” and after 5 times you will come to the root cause of the issue. Asking “Why” will save you from mislabeling a symptom of a problem as the root cause.
+
+watch [this](https://youtu.be/B-M3YlA2KDg)
+
+### 5Ws + H
+Another helpful approach to better understand, define, and articulate a problem is the 5 Ws (+H): What, Who, Where, When, Why, (and How).
+
+What is the problem? What is reality like because of this problem? What will the reality be like if the problem continues?
+
+Who does this problem impact, directly and indirectly? (This could include people and/or animals.) Who contributes to the problem (for example, specific corporations, governments, and/or individuals)?
+
+When did the problem begin? When does the problem occur? When does it need to be resolved?
+
+Where is this problem occurring? (And what is the context in which it occurs?)
+
+Why is the problem happening? Why is it important to solve the problem? (highlight the pain)
+
+There is also an H we can add to this. It stands for HOW: How would the world be different if the problem were solved? (Or sometimes “How do we solve the problem?”)
+
+## problem statement
+A problem statement is a concise and clear description of a specific problem that needs to be solved, its significance, and who it affects. It identifies the gap between the current state (i.e., the problem) and the desired state (i.e., the goal).
+
+An effective problem statement is designed to address the Five Ws (+H).
+
+**Key elements of an effective problem statement:**
+
+Create a succinct problem description (a more concise ‘what’ and possibly ‘when’)
+
+Indicate the specific population affected (a more concise ‘who’ and ‘where’)
+
+Explain the impact of the problem (cost, time, quality, environmental, personal, etc). (a more concise ‘why’)
+
+Identify the gap that exists between present reality and the desired outcome. How would reality look if the problem were solved? (a more precise ‘how’)
+
+a good problem statement should ideally contain specific and measurable information. 
+
+## user stories
+Tech teams typically use a way of defining/framing problems with user stories. User stories can be extremely useful in framing problems so that they’re easy to understand by agile team members. In a typical tech team, a product manager or owner is responsible for creating user stories
+
+User stories are short, simple descriptions of a feature or functionality from the perspective of the user or customer. Their essence is to capture user needs and goals in a way that’s easy to understand and communicate to the development team. They typically follow a specific format that includes a description of the user, the action or goal the user wants to achieve, and the expected outcome or benefit of achieving that goal.
+
+> As a [type of user], I want [some goal/objective], so that [some benefit/reason]
+
+- As a retailer, I want to be able to view the levels of inventory for all products so that I can order the right amount of stock.
+- As a customer, I want to be greeted politely when ordering so that I have a positive experience.
+- As an online client, I want to be able to reset my password without having to call customer support so that my time is used efficiently.
+
+### acceptance criteria
+In the context of user stories, acceptance criteria are the specific conditions or requirements that must be met for a user story to be considered complete. The acceptance criteria are typically defined by the product owner or the development team during the sprint planning or backlog refinement process.
+
+Acceptance criteria are important because they help ensure that the user story is well-defined and that the development team has a clear understanding of what is expected. They also serve as a way to measure whether the user story has been successfully implemented and can be used to guide testing and quality assurance efforts.
+
+Examples of acceptance criteria might include:
+
+- The user can log in using their email address and password.
+- The user can view a list of their past orders on the My Orders page.
+- The system can handle up to 100 concurrent users without experiencing any performance issues.
+- The checkout process must include a confirmation page that displays the order total and shipping information.
+- The application must be compatible with the latest versions of Chrome, Firefox, and Safari browsers.
+
+  
+![cf566d0084c8703fd5b0fcb66c466a2123b5ceed](https://github.com/user-attachments/assets/3e21f513-960f-4d08-be2b-f748b1cdd5fc)
+
+
+Note that acceptance criteria should be specific , measurable , and achievable , and should focus on the functionality that is most important to the end user. They should also be testable so that the development team can verify that the criteria have been met.
+
+**Excercise**
+
+Create a user story and acceptance criteria for the following situation:
+
+A company called FizzBuzzy does e-commerce sales in Tanzania. Their users complain that after buying goods on the FizzBuzzy website, they can only buy individual products and check out one at a time, instead of being able to place several items in one cart before checking out.
+
 
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
@@ -250,4 +366,5 @@ Climate-smart agriculture (CSA) is an integrated approach to managing landscapes
 - [climate changes](https://www.un.org/en/climatechange/what-is-climate-change)
 - [renewable energy](https://www.un.org/en/climatechange/raising-ambition/renewable-energy)
 - [10 Climate Tech Startups](https://www.plugandplaytechcenter.com/insights/future-thinking-startups-fighting-climate-change)
-
+- [5 whys](https://youtu.be/B-M3YlA2KDg)
+- [agile user stories](https://youtu.be/SRRQCDZQ6G4)
