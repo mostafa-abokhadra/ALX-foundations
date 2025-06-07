@@ -353,6 +353,38 @@ Create a user story and acceptance criteria for the following situation:
 
 A company called FizzBuzzy does e-commerce sales in Tanzania. Their users complain that after buying goods on the FizzBuzzy website, they can only buy individual products and check out one at a time, instead of being able to place several items in one cart before checking out.
 
+## Problem Solving approaches
+
+1. **Cool Head, Warm Heart Framework**
+   balances analytical and emotional considerations, It involves making decisions that align with one’s values and goals while also considering the perspectives and feelings of others.
+
+   > this concept emphasizes the importance of balancing rationality and empathy in decision-making.
+
+![e1b23f9f2f3621b4b7b55e17c35c543b880e78f3](https://github.com/user-attachments/assets/c70a7790-f61f-47e6-816e-4c938d0c257a)
+
+Here is an example of a scenario that can make use of the Cool Head, Warm Heart Framework.
+A tech company was facing a challenge with its customer service chatbot. While the chatbot was able to respond to basic customer inquiries, it struggled to understand complex questions and provide personalized responses. As a result, customers were becoming frustrated and the company was experiencing a high rate of customer churn (loss).
+
+![9443c11295d6ae4ca5f2c0b803d082e5904bdb0b](https://github.com/user-attachments/assets/1d849feb-3a1b-4e40-b586-1a702448c445)
+
+2. **McKinsey’s Problem Solving Framework**
+   This framework is often used in business and consulting settings and is particularly effective for analyzing data and developing data-driven and evidence-based solutions.
+
+   the framework requires that we answer the following 6 questions:
+
+  - What is the problem?
+  - Where and when does the problem occur?
+  - Who is affected?
+  - What will make a solution successful?
+  - What are the boundaries of this problem?
+  - Who or what can stop you from implementing the solution?
+
+![eb407416eea5420cf5bba3925a80a8d840cdfaeb](https://github.com/user-attachments/assets/43d7cf44-7489-4c26-936a-c64e9f5999d9)
+
+**when to use each**
+
+![5db0bc67b67884e058404aa87bfe3b157945ea44](https://github.com/user-attachments/assets/612c34ce-eb7a-472b-902d-67e73764383f)
+
 
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
