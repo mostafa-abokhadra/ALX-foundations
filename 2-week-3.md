@@ -1,5 +1,17 @@
 ## third week
 
+### content
+- The Daily 3: Morning Pages
+- GCGOs: Why they are challenges/opportunities and tech solutions in the space
+- Problem Definition
+- Problem Solving Approaches
+- The McKinsey Problem-Solving Framework
+- The Cool Head, Warm Heart Framework
+- Problem Statements
+- Asking the Right Questions
+- Hypothesis Formation
+- Google Workspace—Sheets and Slides
+- 
 ### Morning pages
 Morning Pages are a concept from the classic bestselling book on creativity The Artist’s Way by Julia Cameron
 
@@ -385,7 +397,83 @@ A tech company was facing a challenge with its customer service chatbot. While t
 
 ![5db0bc67b67884e058404aa87bfe3b157945ea44](https://github.com/user-attachments/assets/612c34ce-eb7a-472b-902d-67e73764383f)
 
+### spreadsheets
+- watch [this](https://youtu.be/FIkZ1sPmKNw) detailed guide (14min)
+- watch [this](https://youtu.be/FIkZ1sPmKNw) quick tutorial
+- [graphs and charts](https://youtu.be/-x_mBMkB9KQ)
 
+### slides
+- [this](https://youtu.be/7vSnesQDLBE) quick tutorial
+- [comprehensive](https://youtu.be/OhshNXJtpkE)
+
+## asking the right questions
+
+### types of questions you may ask
+- **Convergent** questions drive toward a specific range of answers.
+- **Divergent** questions open up unlimited avenues for responses.
+- **Evaluative** questions encourage deep analysis to answer.
+- **Provocative** questions evoke an emotional response that may lead to deeper reflection.
+  
+![2e314f6433ba37318033c4251ac3e8d823fb6912](https://github.com/user-attachments/assets/77d04a1d-3fa0-45c3-8764-d1b6c1e070c0)
+
+read [this](https://www.pragmaticinstitute.com/resources/articles/product/problem-solving-its-all-about-smarter-questions/)
+
+**examples of questions**
+
+- “What seems to be the trouble?”
+- “What concerns you the most about _________?”
+- “What is holding you back from _________?”
+- “What seems to be your main obstacle to _________?”
+- Ask customer service: “What makes customers angry enough to contact you?”
+- Ask sales people: “What is contributing to lost deals?”
+- Ask product management: “What do you make of _________?”
+- Ask the channel: “How do you feel about our company’s pricing for _________?”
+- Ask customers: “What would make this product more appealing?”
+- To probe deeper, ask these follow-up questions:
+- “What do you mean by _________?”
+- “Tell me more about _________.”
+- “What else?”
+- “What other ways did you try so far?”
+- “What will you have to do to get the job done?”
+- “Is there something I should have asked that you need me to know?”
+- Engage people to solve the problem. And always, no matter what, ask people how they would solve the problem.
+- “How do you want _________ to turn out?”
+- “What do you want?”
+- “What is your desired outcome?”
+- “What benefits would you like to get out of X?”
+- “What do you propose?”
+- “What is your plan?”
+- “If you do this, how will it affect _________?”
+- “What else do you need to consider?”
+
+- **What** is the problem? What is reality like because of this problem? What will the reality be like if the problem continues?
+- **Who** does this problem impact, directly and indirectly? (This could include people and/or animals.) Who contributes to the problem (for example, specific corporations, governments, and/or individuals)?
+- **When** did the problem begin? When does the problem occur? When does it need to be resolved?
+- **Where** is this problem occurring? (And what is the context in which it occurs?)
+- **Why** is the problem happening? Why is it important to solve the problem? (highlight the pain)
+- **How** would the world be different if the problem were solved? How do we solve the problem?
+ 
+Additional questions (as guided by the elements of a problem statement)
+
+It is likely that after asking these questions there will still be pieces of missing information. This means that you must keep in mind the elements of your problem statement, so you can ask appropriate follow on questions that help you get all the information you need. Remember, the elements of a problem statement that you must have adequate information about include:
+
+- A succinct problem **description** (a more concise ‘what’ and possibly ‘when’)
+- The specific **population** affected (a more concise ‘who’ and ‘where’)
+- The **impact** of the problem (cost, time, quality, environmental, personal… This is a more concise ‘why’.)
+- Identify the **gap** that exists between present reality and the desired outcome. How would reality look if the problem were solved? (This is a more concise how.)
+
+watch [this](https://youtu.be/3AxD6Z1mCxI)
+
+## research questions and hypotheses
+read [this](https://writingcenter.gmu.edu/writing-resources/research-based-writing/how-to-write-a-research-question)
+
+## web basics
+**Important Terminologies**
+- **The Internet and Web**: The Internet is a vast network of interconnected computers, while the Web is a system that uses the Internet to access and display information. Think of the internet as the infrastructure, and the web as the tool to navigate and interact with that infrastructure.
+- **Web Pages and Websites:** Web pages are the building blocks of the web. They are documents containing text, images, videos, and other content. Websites are collections of web pages organized together. Each web page has a unique address called a URL (Uniform Resource Locator), which allows us to access it through a web browser
+- **Web Browsers**: Web browsers, such as Chrome, Firefox, and Safari, are software applications that allow us to view web pages. They interpret the code behind web pages, called HTML (Hypertext Markup Language), and render them into the visual content we see on our screens.
+- **Hyperlinks and URLs**: Hyperlinks are clickable elements on web pages that allow us to navigate between different web pages.
+- watch [internet and www](https://youtu.be/lYUMqsqNAdM)
 ### Resources
 - [morning pages](https://youtu.be/MXXs9JC_ItQ)
 - [morning pages 2](https://www.chriswinfield.com/morning-pages/)
