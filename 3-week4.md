@@ -50,3 +50,24 @@ open the research, use ctrl + f to find key words and read the complete sentence
 10. **Use cache**: to see Google's cached version of a website
 
 read [this]( https://drive.google.com/file/d/1AiUL3rhLYC6VdPNRe88NieC-_2Jv-K8C/view) for full article
+
+### evaluating a resource using CRAP criteria
+- c for **currency**: puplication date
+- r for **reliability** and **relevance**: summary, table of content or key words exists in the article or source, reference mentioned and links provided, does the source have a specific bias or slant of opinion
+- a for **audience** and **author**: author or organization is an expert on the topic, for a websit check for .gov, .edu. .org, who is the intended audience of the articles ? puplic, students, professinals, other
+- p for **purpose** and **point of view** : purpose of the author or organizatiion, why was the page put on the internet? for facts? sales or persuasion?, what is the goal of author, are there any advertisment present on the site
+
+![090d917578ce6ddb814e77fba5f542c109606d54](https://github.com/user-attachments/assets/c2c0de19-b9d0-4a52-a861-e79abdbbc606)
+
+**in addition to CRAP**: 
+
+![eedec3a2a296602411b8abd68983b3a78a38190e](https://github.com/user-attachments/assets/e8093965-ecf5-4d40-83df-aa535d02764f)
+
+> Keep in mind that everything is written from a particular social, cultural, and political perspective. Realize that some publications tend to be ‘slanted’ towards a certain viewpoint.
+
+## citing sources
+While “citing sources” in the professional world is nowhere near as stringent as in the academic space, it is still important to be able to refer to your sources, especially when presenting your information to your team, manager, or executive leaders of your organization. Here are some examples of when knowing your sources will be crucial
+
+- **Keep a list of all of the links that you have used in your research and which pieces of information you derived from there.**
+- **Save important reports on your desktop or Google Drive so you can find them easily and they are easily searchable later on.**
+
