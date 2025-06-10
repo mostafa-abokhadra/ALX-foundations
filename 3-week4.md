@@ -36,3 +36,17 @@ it is useful to remember that there will be times that you will NOT have to go t
 
 #### how to skim internet articles (the magic of CTRL+F!)
 open the research, use ctrl + f to find key words and read the complete sentence, copy past important information, summarize it using your own words (summarize don't explain), add the research link to your reference
+
+## 10 Tips for More Effective Googling
+1. **Use quotes to get an "EXACT" match**:
+2. **Search within a specific site with _site_:** e:g site:freecodecamp.org react
+3. **Exclude a term from search results with -**:  e.g. how to write components in React-class
+4. **Search images of a particular size with _imagesize_**: "cute dog images imagesize:500x600"
+5. **Search for a particular filetype with _filetype_**: react tutorial filetype:pdf
+6. **Use wildcard * to make searches** e:g the * of money 
+7. **Combine searches with OR , AND logic**: e:g React AND Angular, React OR Angular
+8. **Filter out searches with AFTER: , BEFORE: or .. between two numbers**: e:g Reacttutorials AFTER:2020
+9. **Check out related websites using related:** e:g related:google.com
+10. **Use cache**: to see Google's cached version of a website
+
+read [this]( https://drive.google.com/file/d/1AiUL3rhLYC6VdPNRe88NieC-_2Jv-K8C/view) for full article
