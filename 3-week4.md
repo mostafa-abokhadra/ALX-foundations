@@ -32,5 +32,7 @@ it is useful to remember that there will be times that you will NOT have to go t
 4. **Begin gathering your required information**. What search terms should you use? How many reports/articles do you want to read before deciding you have seen enough?
 5. **Evaluate the validity/credibility of your sources and information**. From all of the information you’ve read or collected, which is most reliable? Are there any pieces of information that are validated across multiple sources? What about those that stand out / that are outliers? Which do you trust?
 6. **Synthesize and communicate your key findings.** What are the key takeaways that you want to share? How can you share them in such a way that provides the most impact?
-**Return to your original objectives and key questions to ensure you have answered them appropriately.** Have you found the answers you need or the direction you need to take?
+7. **Return to your original objectives and key questions to ensure you have answered them appropriately.** Have you found the answers you need or the direction you need to take?
 
+#### how to skim internet articles (the magic of CTRL+F!)
+open the research, use ctrl + f to find key words and read the complete sentence, copy past important information, summarize it using your own words (summarize don't explain), add the research link to your reference
