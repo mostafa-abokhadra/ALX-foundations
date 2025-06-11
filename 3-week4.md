@@ -71,3 +71,45 @@ While “citing sources” in the professional world is nowhere near as stringen
 - **Keep a list of all of the links that you have used in your research and which pieces of information you derived from there.**
 - **Save important reports on your desktop or Google Drive so you can find them easily and they are easily searchable later on.**
 
+## Ethical use of AI tools
+ethical use of AI tools in web research are due to concerns related to privacy, data bias, transparency, accountability, misinformation, and regulatory challenges.
+
+- **Full disclosure**: Always disclose when your work is AI-assisted by properly citing your sources. Passing off AI-generated work purely as your own is something we advise against.
+- **Transparency**: Your users will want to know that the data you are collecting from them will at some point pass through AI tools, which is something not every user is comfortable with!
+- **Responsibility**: Always use AI tools in a moral, ethical, and responsible manner.
+
+- **Use AI tools to supplement, not replace, human judgment**. AI tools can be valuable for research, but they should not be used as a substitute for human judgment. It is important to carefully evaluate the results of AI tools and to use your critical thinking skills to make decisions.
+- **Be aware of the potential biases of AI tools**. AI tools are trained on data that is collected from the real world, and this data can be biased. It is important to be aware of the potential biases of AI tools and to take steps to mitigate them.
+- **Use AI tools in a way that respects the privacy of others**. AI tools can collect a large amount of data about users, and it is important to use this data in a way that respects the privacy of others. This means obtaining informed consent from users before collecting their data and using it only for the purposes that were disclosed to them.
+
+for further reading about research check this [page](https://savanna.alxafrica.com/concepts/107867?project_id=101754)
+
+### web research overview
+Looking back to everything you have learned so far and the research that you just completed, let’s check a few things:
+
+**Did you ask the right questions to inform your research? Why or why not?**
+
+Recall that we gave you a way to check whether your questions are good! You can ask yourself more questions like:
+
+- Does my question capture a complex issue or problem related to my chosen GCGO?
+- Is my question nuanced, with no particular right or wrong answer or easy response?
+- Is my question relevant to what is happening in the field? Do multiple stakeholders care about the answer to this question?
+- Will I need to do more work to learn more about the factors affecting and influencing this question?
+- Did you apply the research methodology or did some of the guidelines fall away?
+
+**The guidelines were:**
+
+- Define your objectives, questions, and hypotheses.
+- Determine your end outputs.
+- Scope your main sources of information.
+- Begin gathering your required information.
+- Evaluate the validity/credibility of your sources and information.
+- Synthesize and communicate your key findings.
+- Return to your original objectives and key questions to ensure you have answered them appropriately.
+
+**Did your approach to the research align with research best practices?**
+E.g., taking detailed notes
+
+**Which research skills do you still need to build/improve further on? How can you do this?**
+
+**Did you use AI tools ethically in your web research?**
