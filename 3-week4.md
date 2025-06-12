@@ -113,3 +113,94 @@ E.g., taking detailed notes
 **Which research skills do you still need to build/improve further on? How can you do this?**
 
 **Did you use AI tools ethically in your web research?**
+
+# story telling
+Stories can help to convey complex information in a simple and relatable way, allowing stakeholders to better understand and connect with new ideas and concepts
+Sharing progress updates, success stories, and demonstrating growth potential can inspire and motivate.
+Additionally, storytelling can help to create a sense of community and foster relationships among colleagues, helping to build a positive and productive work environment
+
+### what is your story ?
+
+When we listen to stories as audience members, we unknowingly respond and make judgments in our head about whether the story resonates or “clicks” with us and how the speaker does this. Below are a few of the characteristics we typically watch out for in the stories we hear and what effective storytellers can do.
+
+![40fa8b3bc7017e2d4417ef8d8d41e3e58458d2aa](https://github.com/user-attachments/assets/b8c88e03-8c1a-4c31-9ef2-54457997dfea)
+
+- watch [this](https://youtu.be/LmjKUDo7gSQ), the effect of a single story
+
+## Steps of writing a story
+1. **undrstand the audience**: Who will be reading your writing? What do they already know about the topic? What are their needs and expectations? What kind of language and tone do they respond to most? By understanding your audience, you can tailor your writing to their specific interests and needs
+2. **Defining the purpose**: Once you know your audience, the next step is defining the purpose of your writing. What do you want to achieve with your writing? Are you trying to inform, persuade, or entertain? Knowing your purpose will help you stay focused and on track while you’re writing.
+3. **Research background information**: To ensure that your writing includes all essential information, facts, and figures, it is crucial to conduct thorough research on the topic. Including graphs, charts, and images can help illustrate key facts and information.
+4. **planning and organizing**: Before you start writing, plan and organize your ideas. Create an outline or a mind map to structure your writing. This helps in making your writing more coherent and easy to follow.
+5. **stick to one topic**: Mixing an array of ideas in business writing reduces the effectiveness of the main message. Stay focused on one topic to avoid confusing the reader.
+6. **writing clearly and concisely**: When it comes to professional writing, clarity and concision are key. Use simple, straightforward language, and avoid jargon or overly technical terms that your audience might not understand. Be concise and to the point, and avoid using unnecessary words or phrases.
+7. **proofreading and editing**: After you’ve finished writing, it’s important to proofread and edit your work. Check for grammar and spelling mistakes, and make sure your writing is clear and easy to understand. Consider asking a colleague, friend, or Chat GPT to review your writing. Having a fresh set of eyes to look at your work can often catch mistakes or areas for improvement that you might have missed.
+8. **following professional writing etiquetee**: In addition to the above principles, there are certain etiquette and formatting rules to follow in professional writing. This might include using proper salutations and closings in emails, using a professional tone and style, and adhering to formatting guidelines such as margins, font size, and spacing.
+
+## Story Arc
+
+<img width="506" alt="Screenshot 2025-06-12 215618" src="https://github.com/user-attachments/assets/8465d133-c2a7-4f5e-82dd-926fffe27a78" />
+
+Beginning/Establish Routine ​– This is where the reader is introduced to
+the characters, and we get a taste of what happens in their everyday life.
+
+Example ​– Think of Cinderella sweeping the ashes or Harry Potter living with the Dursley’s. Trigger/Inciting Incident – ​Something beyond the protagonist’s control triggers the spark of the story causing the protagonist to act.
+
+Rising Action/Conflict – ​The trigger results in a quest which often has obstacles, complications, conflict and trouble for the protagonist.
+
+Example – ​Cinderella must endure the antics of her stepmother and stepsisters after her happy time at the ball. Harry stumbles through learning to be a wizard while finding clues about what the Dark Lord wants.
+
+Crisis/Critical Choice – ​Along the way, there should be incidents of crisis followed by brief breaks. Often the protagonist must make a crucial decision. This is where we find out what type of person the character truly is. At the critical choice, the protagonist must decide to take a particular path.
+
+Example – ​Cinderella decides to fight her Stepmother for her right to try on the glass slipper. Harry decides to stop Professor Quirrell from stealing the stone.
+
+Climax – ​This is the highest point of tension in your story and comes fro mwhatever choice your protagonist made during the critical choice. It doesn’t have to be a huge battle between good and evil. It can be something as simple as an important decision being made.
+
+Example – ​For Cinderella, it is the point where she attempts to escape her locked bedroom as her stepsisters try on the glass slipper. In Harry’s instance, it is his battle with Professor Quirrell.
+
+Falling Action – ​This is where the consequences of the critical choice and climax play out. It should show the changed status of your characters – especially the protagonist. The changes must make sense with how the story unfolds. The outcome should be probable as nothing should happen for no reason.
+
+Example – ​Cinderella meets up with her prince and gets married. And for Harry, it is his time in the hospital where Professor Dumbledore divulges the meanings behind the recent events.
+
+Resolution – ​This is where the story wraps up. Your characters return to their lives but now are perhaps wiser or changed.
+
+Example – ​We see Cinderella and her prince driving off in the carriage, presumably to live happily ever after. Harry gets back on the train to return to the Dursley’s but this time knowing that he will return to Hogwarts for another year of school.
+
+If you search the Internet, you can find more complex diagrams of the story arc. Some use different terms or add more steps, but these are the basics of a story arc. Knowing these steps of the arc can help you in planning your story or at least making sure you stay on track.
+
+- read story [Arc](https://drive.google.com/file/d/1-HqaUsI3vAueSkOKc7NI5b2GQbg_FYaJ/view)
+
+## creating storytelling outline
+in planning and organizing phase, you create your outlines, . Outlines serve as excellent aids for listing the main parts of your story, ensuring a key message in each section, and connecting all the elements together in a compelling narrative or structure.
+
+### outline a speech
+1. **opening**: get attention by tie in to the premise
+2. **the premise**: it is the idea you are selling
+3. **body**: 1, 2, 3, pointsd
+4. **call for action**: what do they want from your audience to do
+5. **close**: tied to the opening back again
+
+### structuring a speech outline for a presentation.
+tell them what you are gonna say, say it and tell them what you just said
+- Tease your idea through a creative story or a similar approach.
+- Tell them what you will talk about (preview).
+- Walk through each topic.
+- Review what you talked about.
+- Include a call to action.
+
+## writing to communicate information
+
+![ba9301ff8d5eed776149db7046daefb1e5cb4bf2](https://github.com/user-attachments/assets/8b50f5c1-b42f-4ff8-a799-ad7536bc1d39)
+
+## Technical writing
+Technical writing is a form of communication that conveys complex technical or specialized information in a clear and concise manner to a specific audience. It is usually used for the purpose of informing, instructing, or facilitating decision-making.
+
+Technical writing requires both creativity and logic so that technical information can be clearly explained to a specified audience. In good technical writing, complex concepts and processes are broken down into easy-to-understand language. It is common that diagrams, charts, and other visual storytelling aids are used. Technical writers may create a variety of documents, such as user manuals, technical specifications, training materials, and research reports.
+
+**example of technical writing**
+
+- User manuals for software or hardware products, which provide step-by-step instructions on how to use them.
+- Technical specifications for products or systems, which detail the technical requirements and capabilities of a product.
+- Training materials for employees or customers, which teach them how to perform specific tasks or use specific tools.
+- White papers or research reports, which communicate the results of technical research or analysis to a wider audience.
+- Safety manuals or procedures, which provide guidelines and instructions on how to safely use equipment or handle hazardous materials.
