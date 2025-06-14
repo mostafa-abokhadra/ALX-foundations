@@ -261,10 +261,10 @@ how you want your audience to FEEL, what you want them to THINK, and what you ne
 ## Communicating for Impact in Agile Tech Teams
 good written communication is crucial throughout a product’s development lifecycle
 
-Clarity: Agile teams need to work quickly and efficiently, and good written communication helps ensure that everyone is on the same page. When team members communicate clearly in writing, there’s less room for confusion, misunderstandings, or delays caused by having to clarify information.
-Documentation: Agile development often involves making changes quickly, and good written communication is essential for documenting those changes. Written communication, such as emails or chat messages, can serve as a record of decisions made, problems encountered, and solutions implemented, which can be used for future reference.
-Collaboration: Agile development relies on collaboration between team members, and written communication is a key tool for making that collaboration work. Good written communication can help ensure that team members are sharing ideas and working together effectively, even if they’re not in the same physical location.
-Remote work: In recent times, remote work has become increasingly common in technology companies, and good written communication is especially important in remote teams. Written communication can help ensure that remote team members stay connected and informed, despite not being in the same location. Think of the fact that we’re able to attend class at ALX today from different cities across the world with no technical hitches!
+- **Clarity**: Agile teams need to work quickly and efficiently, and good written communication helps ensure that everyone is on the same page. When team members communicate clearly in writing, there’s less room for confusion, misunderstandings, or delays caused by having to clarify information.
+- **Documentation**: Agile development often involves making changes quickly, and good written communication is essential for documenting those changes. Written communication, such as emails or chat messages, can serve as a record of decisions made, problems encountered, and solutions implemented, which can be used for future reference.
+- **Collaboration**: Agile development relies on collaboration between team members, and written communication is a key tool for making that collaboration work. Good written communication can help ensure that team members are sharing ideas and working together effectively, even if they’re not in the same physical location.
+- **Remote work:** In recent times, remote work has become increasingly common in technology companies, and good written communication is especially important in remote teams. Written communication can help ensure that remote team members stay connected and informed, despite not being in the same location. Think of the fact that we’re able to attend class at ALX today from different cities across the world with no technical hitches!
 
 ### Release Announcements Tips
 1. **1. Know your audience**: This is important as it helps you tailor your communication to their needs, interests, and knowledge context. When you know their background, including what’s motivating their interest in the product or feature, you’re in a better position to make the communication more engaging, relatable, and persuasive!
@@ -277,3 +277,106 @@ Remote work: In recent times, remote work has become increasingly common in tech
 
 **Product or Feature Announcement Example**
 ![be3c4472f3a8c68b48b39d5cecae87ec0a5241bc](https://github.com/user-attachments/assets/d9165a1d-7b5f-4cc1-8619-4560ca9d9d77)
+
+## Common Written Communication for Agile Teams: Stand-Up Updates
+Stand-up meetings are scheduled within a team so that team members can coordinate, collaborate, and foster transparency in their workflows. They’re also known as SCRUM meetings and serve as a quick and informal way for team members to share updates, align their efforts, and address any potential obstacles or blockers.
+
+Instead of stand-up meetings, some teams opt for an informal format where team members post their updates in a commonly shared communication channel such as Microsoft Teams or Slack. In general, when communicating with team members on a shared communication channel, keep the following tips in mind.
+
+1. **Use clear and concise language**
+When using team collaboration and communication platforms such as Slack or Teams, be brief and to the point. Assume that the people to whom you’re sending a message have loads of other messages to look at, so you’re only trying to capture their attention momentarily. Avoid unnecessary jargon and use plain language to ensure everyone understands the message quickly.
+2. **Utilize the relevant channels**: When making an update regarding the progress of tasks assigned to you, make sure you use the appropriate channels. For instance, there will most likely be a dedicated channel (think of channels as stakeholder groups) for making stand-up updates for the team. Posting a stand-up message on a channel meant for sharing funny tech memes 💀 will probably defeat the purpose of the stand-up update. Don’t you think so?
+3. **Leverage threads for in-depth discussions**: When an update is made to a channel and a discussion stems out of the update, lean towards creating responses on the thread as shown in the example below borrowed from Slack. Replying through starting a new update breaks the flow of the message intended to be communicated.
+4. **Use @mentions effectively**: When you need actions on tasks to be handled by team members, make sure to mention them in your update which ensures full transparency into who should handle what, which should never be assumed. When the @mention list is too large for a collaboration platform update such as Slack, make use of emails!
+5. **Set clear expectations for response time**: If something is needed for an upcoming release that’s bound to happen in three hours, it should be highlighted in the message to enable your intended audience to understand the time urgency required in their responses or actions.
+6. **Respect teammates working in different time zones**: When working with teammates spread across vast geographical areas, consider their off-focus work hours. Unless something is time-critical and super urgent, it might suffice to mention that their response is only required when they’re back to their normal office hours.
+7. **Encourage positive and constructive communication**: In principle, it’s important to understand how different collaboration platforms cater to our different communication needs and when to use each. It’s also important to know when to make a publicly facing update in one of the channels we talked about versus reaching out privately to the person whose attention you need on something.
+
+## User-facing and Technical Documentation
+You’ve probably tried to use new software or hardware products before, right? What did you do when you couldn’t figure out how to use a particular feature? You used Google Search or consulted a physical manual that came with the product in question to help guide you through your challenge. The documentation we use in this instance is known as user-facing documentation and is integral when a technology team is doing hardware and software releases.
+
+> [!IMPORTANT]
+> Software and hardware that’s being developed also need to be documented every step of the way. This is also known as technical documentation since its main purpose is to act as a reservoir of information for the technology teams.
+
+![1de2c56e2a3021aabfb9d8d4051001f9e3a0d5c2](https://github.com/user-attachments/assets/ef9efec5-7124-406a-8f1c-b93efe168603)
+
+
+1. **Knowledge Preservation and Sharing**
+Documentation does serve as a repository of information that captures the collective knowledge and expertise of the team over time. It helps with making sure everyone on the team has the most up-to-date information regarding the software project in question which is great for collaboration.
+
+2. **Onboarding and Team Expansion**
+Documentation serves as an important resource when onboarding new team members to new roles providing them with a comprehensive understanding of the project, its components, and existing processes. Can you try to imagine what would happen if your first professional role was a technology team with no documentation?
+
+3. **Maintaining Consistency**
+Agile teams often work on complex projects that involve multiple iterations, sprints, or releases. Documentation ensures consistency in development practices, coding standards, and architectural decisions. It serves as a reference point for the team, ensuring that everyone follows the same guidelines and practices, even as the project evolves.
+
+4. **Communication and Collaboration**
+Agile teams often work with stakeholders, clients, or other teams within an organization. Documentation helps facilitate effective communication and collaboration. It provides a common reference point that can be shared with external stakeholders or non-technical team members to ensure a shared understanding of the project’s scope, progress, and technical aspects.
+
+5. **Continuous Improvement**
+Agile methodologies emphasize learning and continuous improvement. Documentation plays a crucial role in this process. By documenting lessons learned, feedback, and retrospective outcomes, teams can identify areas of improvement and implement changes effectively.
+
+## Common Documents Maintained by Agile Teams
+
+You may come across two types of commonly used documents that are commonly used in software development: PRD - Product Requirements Document and BRD - Business Requirements Document. While they may seem similar at first glance, they serve different purposes in the software development process.
+
+### Product Requirement Document
+A Product Requirements Document is a document that outlines the product requirements for a software application. It’s typically written by the product manager or business analyst and is used to communicate the product vision and requirements to the development team. The PRD outlines the key features, functionality, and user requirements for the product. It also provides details on the user interface, performance requirements, and any other non-functional requirements.
+
+Example: A PRD for a mobile app might include details on the user interface design, the login process, the app’s core functionality, and any performance requirements such as load time or response time. Below, is an example you can look at. You do not need to read the document; just scan through it to get a sense of what a PRD looks like.
+
+### Business Requirements Document
+A Business Requirements Document is a document that outlines the business requirements for a software application. It’s typically written by a business analyst or project manager and is used to communicate the business requirements to the development team. The BRD outlines the business objectives, user needs, and overall project scope.
+
+Example: A BRD for an e-commerce website might include details on the target audience, the business goals for the website, the user journey from product search to purchase, and any integration requirements with third-party systems such as payment gateways or inventory management systems.
+
+The key difference between a PRD and a BRD is the focus of the document. The PRD focuses on the **product requirements and features**, while the BRD focuses on the **business objectives and project scope**. In practice, both documents are often used together to ensure that the development team has a complete understanding of both the business requirements and the product requirements. 
+
+> [!TIP]
+> In general, a PRD is used when developing new software products or major feature releases, while a BRD is used when developing systems that support the business goals of an organization.
+
+## work planning
+
+> Any activity that requires several steps can be called a project.
+
+### project scope
+In the project management process, project scoping typically comes **before** work planning, so let’s talk about that next.
+
+Project scope is a crucial component of project planning as it involves determining a list of specific project goals, deliverables, tasks, costs, and deadlines.
+
+It outlines the project’s boundaries to help the project owner/team remain focused on the task at hand and procedures for how completed work will be verified and approved.
+A project’s scope also describes the project’s purpose, what is included and isn’t, and important processes, assumptions, and limits.
+A scope is sometimes referred to as a statement of work (SOW), or terms of reference (ToR).
+
+**an effective project scope statement will include the following elements:**
+
+![74d8c3878b8e9f27abcca7c7957d48c2c64bbca1](https://github.com/user-attachments/assets/78acf6a3-37e0-4969-90cc-abe68c0d8922)
+
+### Scope Creep
+Have you ever come up with a great plan, but when you were executing it, you kept adding (or removing) aspects of it and then ended up with a different plan altogether? It is almost like planning to go to the store to buy food for tomorrow, then on your way, you remember that you need to pass by a friend’s. You decide to change your original plan and pass by your friend’s but never end up making it to the store.
+
+In project management, we call this Scope Creep. Every project should start with a set of agreed-upon project requirements, but scope creep occurs when those needs are increased without permission or other safeguards. Scope creep – also known as feature creep, focus creep, creeping functionality, and kitchen-sink syndrome – can sneak up and destroy a project.
+
+In any project, there tends to be a gap between what was planned and what actually happened. The addition of new objectives, deliverables, or tasks during the life of a project is known as scope creep because it essentially grows your scope steadily until you have more on your plate than you can handle.
+
+watch [this](https://youtu.be/4FwjP2WT4vI) to help you prevent scope creep
+
+## project management tool
+
+watch [this](https://youtu.be/RRNOXVKN9J0)
+
+**[components](https://drive.google.com/file/d/1pzdDohzCMTiSYf96JENdpVorP7wQax5G/view) of Gantt charts**
+
+- [ClickUp](https://clickup.com/)for customized task views
+- [Jira](https://www.atlassian.com/software/jira) for developers
+- [Trello](https://trello.com/) for visually managing projects
+- [Asana](https://asana.com/) for teams
+
+
+
+
+
+
+
+
+
