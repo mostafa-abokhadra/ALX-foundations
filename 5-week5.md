@@ -60,10 +60,9 @@ The development team is cross-functional, which means that it includes individua
 And this is why Agile methodology matters to people entering into the tech ecosystem. It has become the dominant approach to software development in recent years. Companies across all industries are adopting agile methodology as a way to stay competitive and respond quickly to changing customer needs and market conditions. As a result, many job postings in the technology industry now require experience or knowledge of agile methodology.
 
 
-
 > [!IMPORTANT]
-> - what does agile [mean](https://youtu.be/Z9QbYZh1YXY)
-> - detailed [explaination](https://vimeo.com/154739245)
+> - what does agile [mean](https://youtu.be/Z9QbYZh1YXY) and the values and principles its include
+> - detailed [explaination](https://vimeo.com/154739245) 
 > - different [roles](https://www.youtube.com/watch?v=22GB61qkvZM) in a tech team
 
 ![ac19ee00b944513f44da0826edfc403f75f5351b](https://github.com/user-attachments/assets/7073c5fa-2127-4df4-8e82-a578aeab79ce)
@@ -72,7 +71,7 @@ And this is why Agile methodology matters to people entering into the tech ecosy
 
 For example, the length of a sprint can vary, in fact, some organizations call them cycles instead of sprints! Some organizations include design as part of the sprints, while others make them part of backlog definition.
 
-n other words, organizations often choose the framework that best suits their needs. It is common for a technology team to use multiple approaches for different scenarios. This means that different teams can use different approaches to the Agile Framework. Some of the most common Agile Frameworks are:
+in other words, organizations often choose the framework that best suits their needs. It is common for a technology team to use multiple approaches for different scenarios. This means that different teams can use different approaches to the Agile Framework. Some of the most common Agile Frameworks are:
 
 - **SCRUM (most common)**
 - **Kanban**
@@ -128,7 +127,6 @@ You could also think of these touch points in the context of your group work as 
 
 > In a sprint planning meeting, the team decides which tasks to work on in the next sprint and who will handle them. The meeting is attended by key stakeholders people like the Product Manager, UI/UX Designers, Engineers, and other team members.
 
-
 Remember the different roles we learned about in week 5? Those are some of the team members we might expect to attend sprint planning meetings. The meeting occurs at the beginning of each sprint. During this meeting, tasks and responsibilities are assigned.
 
 To assign roles effectively, you might want to act as the project manager of your team. Project management is related to product management but, also vastly different. In fact, project management is a subset of product management. Project managers plan, organize, and oversee projects from start to finish. They are very important in making sure projects are done well within the planned scope, budget, and time. If you choose this role, you’ll probably lead the Sprint Planning Meeting. This meeting makes sure everyone knows what needs to be done.
@@ -141,5 +139,51 @@ The meeting starts with the Product Manager presenting the project’s vision an
 
 listen to this [video](https://youtu.be/2A9rkiIcnVI) on how to run sprints mettings
 
+### Retrospective
+- **Create a safe and inclusive space**: Encourage everyone to participate and make sure everyone’s ideas and opinions are respected. It’s important that everyone feels comfortable sharing their thoughts without fear of judgment or criticism.
+Be honest and open
+- **Encourage everyone to be truthful about their experiences during the sprint**. Honesty is key to understanding what went well and what needs improvement. Remember, it’s not about blaming anyone, but rather finding ways to work better together.
+Focus on observations and facts
+- **When discussing what happened during the sprint, try to stick to objective observations and facts rather than personal opinions**: For example, instead of saying, “I think the design was bad,” you can say, “We received feedback from users that they found the design confusing.”
+- **Use a collaborative approach**: Involve everyone in the discussion and decision-making process. Encourage brainstorming and gathering ideas from all team members. This way, you can have a variety of perspectives and find the best solutions together.
+- **Identify both successes and areas for improvement**: Recognize the things that went well during the sprint and celebrate them. It’s equally important to identify areas where you faced challenges or didn’t meet your goals. This helps you learn from both the positive and negative experiences.
+- **Set SMART goals**: Based on the discussion, establish clear and specific goals for the next sprint. Make sure these goals are; specific, measurable, actionable, relevant, and time-bound. For example, instead of saying, “We should improve communication,” you can say, “Let’s have a daily stand-up meeting to share progress and challenges.”
+- **Follow up on action items**: After the retrospective, it’s important to take action on the goals and improvements identified. Assign responsibilities and track progress to ensure that the agreed-upon changes are implemented.
 
+## terms
+**Sprint**: This is a short, time-boxed period (it’s usually a week or two in most technology companies), where SCRUM teams work to complete a certain set of work.
+
+**Product backlog**: This is a list of features, functions that have not yet been developed into final solutions, and requirements that the development team will work on in a future iteration or sprint.
+
+**MVP**: It’s a concept used in product development to describe the smallest version of a product that can still provide value to its users/customers.
+
+**User personas:** User personas are fictional characters that represent different types of users who might use a product or service. These personas help developers understand their users better and design products that meet their needs. For example, let’s say you’re creating a game app. You might have a user persona named “Gamer Gina” who loves action games and another persona named “Puzzle Pete” who prefers brain-teasing games. By understanding their preferences, you can design a game that appeals to both personas.
+
+**Wireframes:** Wireframes are like blueprints or sketches of a website or app. They show the basic structure and layout without focusing on colours, graphics, or detailed design. Think of it as drawing the outline of a house before adding all the details inside.
+
+**Prototypes**: Prototypes are interactive mock-ups or models of a website or app. They give you a feel for how the final product will work and allow you to test and gather feedback before investing time and resources into development. Imagine you’re building a car. Before building the actual car, you might create a small-scale model to see how it looks and functions.
+
+**User Interface**: User Interface (UI) refers to the visual elements and controls that users interact with on a website or app. It includes buttons, menus, forms, and any other elements that users see and interact with.
+
+**User Experience**: User Experience (UX) focuses on how users feel and interact with a product or service. It’s about creating a positive and enjoyable experience for users.
+
+**Continuous Integration**: Continuous Integration (CI) is a development practice where developers frequently integrate their code changes into a shared repository. It ensures that multiple developers’ work is combined regularly and automatically tested for any issues.
+
+**Continuous Deployment**: Continuous Deployment (CD) is a practice of automatically deploying software changes to production environments after passing tests in the continuous integration process. It allows developers to release new features or bug fixes to users quickly and frequently, ensuring a smoother and more efficient deployment process.
+
+**Client-side**: Client-side refers to the part of an application or website that runs on the user’s device, such as a computer or smartphone. It includes all the code and processes that occur on the user’s side, like displaying content, running animations, and handling user interactions.
+
+**Server-side**: Server-side refers to the part of an application or website that runs on the server, which is a powerful computer or network of computers that store and process data. It handles tasks such as managing databases, processing requests from users, and generating dynamic content to be sent back to the client side.
+
+**Agile**: Agile is an approach to project management and software development that emphasizes flexibility, collaboration, and iterative work.
+
+**Waterfall software development**: Waterfall software development is a traditional approach to building software where each phase of the project happens in a sequence, like a waterfall flowing downward.
+
+**Sprint planning meeting**: This is like a strategy session where you decide what tasks you’ll work on during the sprint. You discuss the goals for the sprint and break them down into smaller tasks that can be completed within the sprint’s timeframe.
+
+**Stand-up meetings**: Stand-up meetings are short, quick meetings that happen every day during a sprint. They are called “stand-up” because everyone stands up during the meeting to keep it short and focused. In these meetings, each team member shares what they worked on the previous day, what they plan to work on that day, and if they are facing any challenges or need help. It’s like checking in with your teammates to make sure everyone is on track and to see if anyone needs assistance.
+
+**API:** It’s like a bridge that enables different apps or systems to work together and exchange data. For example, imagine you have a music streaming app, and you want to show the lyrics of the currently playing song. You can use an API provided by a lyrics service to fetch the lyrics and display them in your app.
+
+By this time, you’ve heard the terms Agile Teams, Agile Methodology, and Agile Framework quite a bit. Let’s explore what Agile is and how teams following this methodology function. Agile teams are typically small. They consist of about 5-9 team members with various roles. This section contains the breakdown of what an Agile Team typically looks like. Make sure you understand what each of the roles does as you’re most likely going to be working closely with people with such titles and responsibilities, or are going to have such a title yourself in the near future.
 
