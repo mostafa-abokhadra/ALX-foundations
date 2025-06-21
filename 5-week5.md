@@ -187,3 +187,32 @@ Focus on observations and facts
 
 By this time, you’ve heard the terms Agile Teams, Agile Methodology, and Agile Framework quite a bit. Let’s explore what Agile is and how teams following this methodology function. Agile teams are typically small. They consist of about 5-9 team members with various roles. This section contains the breakdown of what an Agile Team typically looks like. Make sure you understand what each of the roles does as you’re most likely going to be working closely with people with such titles and responsibilities, or are going to have such a title yourself in the near future.
 
+## Agile Team Structure
+1. **UX researcher**: watch [this](https://youtu.be/kQ_6faxhyIw)
+2. **Product Manager**: A Product Manager, also commonly known in modern tech lingo as a PM, is responsible for driving the vision, overall strategy, design, and execution of a product. This includes doing market research, competitive analysis, checking out customer feedback, and making sure that the team’s day-to-day are aligned with the business objectives. The Product Manager is also responsible for defining the product vision and making strategic decisions about pricing, positioning, and target markets, You should know, however, that not all companies have the product role specified to a Product Manager alone. Some companies might have different variations, the most common one being a Product Owner. A caveat with the two roles (PM and product owner) is that most teams, especially smaller teams from smaller companies, have only one of the two roles performing all duties related to backlog management and roadmap planning. i.e., instead of having both roles in a company’s technology team, you will just have the Product Manager or Product Owner. watch [this](https://youtu.be/pCmh6XaMVxs)
+3. **Product Designer or UI/UX Designer**: Product Designers often work hand in hand with UX researchers and Product Managers to conduct user research, ensuring that they gain a deep understanding of the user’s needs, pain points, and goals. They’re responsible for turning the insights learned from user research into wireframes and prototypes, which are visualizations of the design solutions that attempt to meet the user’s needs. They also consider holistic product metrics such as user retention, growth, user acquisitions, and customer drop-offs. watch [this](https://youtu.be/S6maF4tICPs) and [this](https://youtu.be/V50sIFbp-YA)
+4. **Backend software engineer**: responsible for designing, developing, and maintaining the server-side logic, and databases of a software application. watch [this](https://youtu.be/aRPOYPJPCho)
+5. **Frontend software engineer**: watch [this](https://youtu.be/Gc0msPEmGjA)
+6. **Fullstack software engineer**: wathc [this](https://youtu.be/7NaeDBTRY1k)
+7. **mobile app developer**: Mobile software engineers are experts in programming languages like Swift (for iOS) or Java/Kotlin (for Android). They use these languages to write the code that makes the app work. They create the buttons, screens, animations, and everything else that you see and interact with within the app. watch [this](https://youtu.be/DZ-rEgAWFkQ)
+8. **Devops engineer**: Imagine you have a big team of friends who are building a huge LEGO city together. Each friend has their own special LEGO pieces and tasks, like building houses, roads, and bridges. A DevOps engineer is like the person who makes sure everything runs smoothly and efficiently in the LEGO city, Next, the DevOps engineer focuses on automation. This means they find ways to make repetitive tasks in the LEGO city automated, just like using machines to do things faster and with fewer mistakes. For example, they might build a machine that can automatically place LEGO bricks in a specific order for a building, saving time and effort for the builders, The DevOps engineer also keeps an eye on the LEGO city’s performance and stability. They monitor if there are any issues, like a bridge that’s not strong enough or a road that’s not wide enough for the LEGO cars. They fix these problems quickly so that the builders can continue their work smoothly.
+
+> Brilliant analogy aside, DevOps Engineers ensure that software development and delivery processes are streamlined, efficient, and of high quality. They focus on automating and improving the integration, testing, and deployment of software which allows teams to move faster while maintaining quality and reliability.
+
+**Devops common tasks**
+
+- Development and maintenance of tools, scripts, and systems that automate software deployment, testing, and monitoring.
+- Manage and configure cloud infrastructure such as Amazon Web Services (AWS), to ensure that applications can scale and are resilient to failures.
+- Setting up and maintaining continuous integration and continuous deployment (CI/CD) pipelines.
+- Participating in sprint planning meetings to ensure alignment with development teams and that DevOps requirements are incorporated into the development process.
+
+watch [this](https://youtu.be/8_ju_D_GoQQ)
+9. **data analyst**: First, the data analyst’s job is to collect the right information. This is something they figure out in collaboration with other team members. For example, if sales want to evaluate a new outreach strategy, the data analyst will work with them to figure out what is the best data to gather for that purpose. They then organize this information in a special way, like putting the data into groups, collating them, and giving it a proper structure. Next, they start to analyze the data. This means they look at patterns and trends. They might notice certain abnormalities and run special analysis to confirm them. The point will always be to collect evidence to confirm something or make recommendations.
+
+The crux of the role is that data analysts collect, analyze, and interpret data to help organizations make informed decisions and solve problems. They use special tools and software to help them with their work. These tools make it easier for them to understand the data and find important information.
+
+watch [this](https://youtu.be/ywZXpfdqg1o)
+
+## Team project Roles
+read [this](https://drive.google.com/file/d/1MGkx2mVg59YiUmE_OmHIn0h6UnIrt00R/view?usp=sharing)
+
