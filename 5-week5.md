@@ -252,5 +252,4 @@ The following 2 videos show you how to answer a guesstimate problem that suppose
 
 watch [this](https://youtu.be/eMcOd4sq2NM) then [this](https://youtu.be/RiDlWBiwb6M)
 
-
-
+## Research and data gathering
