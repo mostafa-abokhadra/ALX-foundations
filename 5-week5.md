@@ -216,3 +216,41 @@ watch [this](https://youtu.be/ywZXpfdqg1o)
 ## Team project Roles
 read [this](https://drive.google.com/file/d/1MGkx2mVg59YiUmE_OmHIn0h6UnIrt00R/view?usp=sharing)
 
+## Guestimation
+Many times in life, we do not have the luxury of time, resources, or data to conduct full research on a decision before making it. In situations like this, we rely on our logic and guestimation powers. 
+
+watch [this](https://youtu.be/RBC6DGCUJu8)
+
+In guestimation, we use the **QBSC (Question, Breakdown, Solve, Consolidate)** framework to figure out a solution for your problem. The type of problem you have can range from needing to estimate the number of pizzas you should order for a party, to calculating what tax rates should be levied to mitigate inflation.
+
+![33742db51d2b1dee3969e94ed71bee39b8301739](https://github.com/user-attachments/assets/94045dce-32eb-45b7-a111-f141fd50680b)
+
+- **Question**: What is the primary question, or problem statement you have?
+- **Breakdown**: Break down your problem statements into issues that you can address individually.
+- **Solve**: Solve each of your issues.
+- **Consolidate**: Consolidate your issues and solutions, and create an answer for your primary problem statement.
+
+### Guestimation Approaches
+There are 2 ways to guestimate: the top-down and bottom-up approach.
+
+- The top-down approach seeks to identify the big picture and all of its components. These components are usually the driving force for the end goal.
+- The bottom-up approach focuses its analysis on specific characteristics and micro attributes of an individual project.
+
+watch [this](https://youtu.be/7xXzEhnjJD4)
+
+### Market-sizing & Guesstimate Questions Guide
+the “magical” approach to solving any market-sizing or guestimate questions. wathc [this](https://youtu.be/v5eKAmZuQzs)
+
+The 4 steps to market-sizing or guestimating are:
+
+- Clarification
+- Breaking down problems
+- Solving each piece
+- Consolidating
+
+The following 2 videos show you how to answer a guesstimate problem that supposedly appeared on Google or Goldman Sachs job interviews. But the point is not to give you the exact sizing of ping pongs and technical specifications of airplanes. Instead, this video shows how to rely on only what you have in your head and whatever is available to get a reliable answer.
+
+watch [this](https://youtu.be/eMcOd4sq2NM) then [this](https://youtu.be/RiDlWBiwb6M)
+
+
+
