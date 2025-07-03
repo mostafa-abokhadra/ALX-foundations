@@ -253,3 +253,8 @@ The following 2 videos show you how to answer a guesstimate problem that suppose
 watch [this](https://youtu.be/eMcOd4sq2NM) then [this](https://youtu.be/RiDlWBiwb6M)
 
 ## Research and data gathering
+### Data analysis framework
+The Data Analysis Framework is a structured approach used to examine and understand data. It involves asking key questions to gain insights into the problem or situation and preparing the data for a more in-depth analysis. This framework helps guide the process of extracting meaningful information from data sets.
+
+Essentially, this framework is a set of logical and iterative steps that, when followed appropriately, support you in your data analysis. We have simplified these steps so you can follow them later on in this module. Let’s learn what each step entails. Click through the interactives to reveal details about each step.
+  
